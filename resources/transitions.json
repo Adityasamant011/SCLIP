@@ -1,0 +1,63 @@
+[
+  {"id": "fade", "name": "Fade", "description": "Classic fade transition", "category": "basic"},
+  {"id": "fadeblack", "name": "Fade to Black", "description": "Fade through black", "category": "basic"},
+  {"id": "fadewhite", "name": "Fade to White", "description": "Fade through white", "category": "basic"},
+  {"id": "fadegrays", "name": "Fade to Gray", "description": "Fade through gray", "category": "basic"},
+  {"id": "dissolve", "name": "Dissolve", "description": "Smooth dissolve blend", "category": "basic"},
+  
+  {"id": "wipeleft", "name": "Wipe Left", "description": "Wipe from right to left", "category": "wipe"},
+  {"id": "wiperight", "name": "Wipe Right", "description": "Wipe from left to right", "category": "wipe"},
+  {"id": "wipeup", "name": "Wipe Up", "description": "Wipe from bottom to top", "category": "wipe"},
+  {"id": "wipedown", "name": "Wipe Down", "description": "Wipe from top to bottom", "category": "wipe"},
+  {"id": "wipetl", "name": "Wipe Top-Left", "description": "Diagonal wipe top-left", "category": "wipe"},
+  {"id": "wipetr", "name": "Wipe Top-Right", "description": "Diagonal wipe top-right", "category": "wipe"},
+  {"id": "wipebl", "name": "Wipe Bottom-Left", "description": "Diagonal wipe bottom-left", "category": "wipe"},
+  {"id": "wipebr", "name": "Wipe Bottom-Right", "description": "Diagonal wipe bottom-right", "category": "wipe"},
+  
+  {"id": "slideleft", "name": "Slide Left", "description": "Slide clip left", "category": "slide"},
+  {"id": "slideright", "name": "Slide Right", "description": "Slide clip right", "category": "slide"},
+  {"id": "slideup", "name": "Slide Up", "description": "Slide clip up", "category": "slide"},
+  {"id": "slidedown", "name": "Slide Down", "description": "Slide clip down", "category": "slide"},
+  
+  {"id": "smoothleft", "name": "Smooth Left", "description": "Smooth slide left", "category": "smooth"},
+  {"id": "smoothright", "name": "Smooth Right", "description": "Smooth slide right", "category": "smooth"},
+  {"id": "smoothup", "name": "Smooth Up", "description": "Smooth slide up", "category": "smooth"},
+  {"id": "smoothdown", "name": "Smooth Down", "description": "Smooth slide down", "category": "smooth"},
+  
+  {"id": "coverleft", "name": "Cover Left", "description": "Cover from right", "category": "cover"},
+  {"id": "coverright", "name": "Cover Right", "description": "Cover from left", "category": "cover"},
+  {"id": "coverup", "name": "Cover Up", "description": "Cover from bottom", "category": "cover"},
+  {"id": "coverdown", "name": "Cover Down", "description": "Cover from top", "category": "cover"},
+  
+  {"id": "revealleft", "name": "Reveal Left", "description": "Reveal to left", "category": "reveal"},
+  {"id": "revealright", "name": "Reveal Right", "description": "Reveal to right", "category": "reveal"},
+  {"id": "revealup", "name": "Reveal Up", "description": "Reveal upward", "category": "reveal"},
+  {"id": "revealdown", "name": "Reveal Down", "description": "Reveal downward", "category": "reveal"},
+  
+  {"id": "circleopen", "name": "Circle Open", "description": "Circular reveal opening", "category": "geometric"},
+  {"id": "circleclose", "name": "Circle Close", "description": "Circular reveal closing", "category": "geometric"},
+  {"id": "circlecrop", "name": "Circle Crop", "description": "Circular crop transition", "category": "geometric"},
+  {"id": "rectcrop", "name": "Rectangle Crop", "description": "Rectangular crop", "category": "geometric"},
+  
+  {"id": "horzopen", "name": "Horizontal Open", "description": "Horizontal barn door open", "category": "door"},
+  {"id": "horzclose", "name": "Horizontal Close", "description": "Horizontal barn door close", "category": "door"},
+  {"id": "vertopen", "name": "Vertical Open", "description": "Vertical barn door open", "category": "door"},
+  {"id": "vertclose", "name": "Vertical Close", "description": "Vertical barn door close", "category": "door"},
+  
+  {"id": "diagtl", "name": "Diagonal Top-Left", "description": "Diagonal from top-left", "category": "diagonal"},
+  {"id": "diagtr", "name": "Diagonal Top-Right", "description": "Diagonal from top-right", "category": "diagonal"},
+  {"id": "diagbl", "name": "Diagonal Bottom-Left", "description": "Diagonal from bottom-left", "category": "diagonal"},
+  {"id": "diagbr", "name": "Diagonal Bottom-Right", "description": "Diagonal from bottom-right", "category": "diagonal"},
+  
+  {"id": "hlslice", "name": "Horizontal Left Slice", "description": "Horizontal slice left", "category": "slice"},
+  {"id": "hrslice", "name": "Horizontal Right Slice", "description": "Horizontal slice right", "category": "slice"},
+  {"id": "vuslice", "name": "Vertical Up Slice", "description": "Vertical slice up", "category": "slice"},
+  {"id": "vdslice", "name": "Vertical Down Slice", "description": "Vertical slice down", "category": "slice"},
+  
+  {"id": "radial", "name": "Radial", "description": "Radial clock wipe", "category": "special"},
+  {"id": "zoomin", "name": "Zoom In", "description": "Zoom transition in", "category": "special"},
+  {"id": "pixelize", "name": "Pixelize", "description": "Pixelation transition", "category": "special"},
+  {"id": "distance", "name": "Distance", "description": "Distance-based transition", "category": "special"},
+  {"id": "squeezev", "name": "Squeeze Vertical", "description": "Vertical squeeze", "category": "special"},
+  {"id": "squeezeh", "name": "Squeeze Horizontal", "description": "Horizontal squeeze", "category": "special"}
+] 

@@ -1,0 +1,38 @@
+{
+  "session_id": "test_full_076356c9",
+  "user_id": "default",
+  "conversation_history": [
+    {
+      "id": "cd65026a-b62c-4e23-a4c2-34d2c16f0715",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2025-07-27T23:49:19.854140",
+      "metadata": {}
+    },
+    {
+      "id": "66c3c586-9fef-4a01-9c7d-ddfcc0ed283a",
+      "role": "assistant",
+      "content": "Hey there! I'm Sclip, your AI assistant for video creation. I'm here to help you turn your ideas into awesome videos.\n\nWe can do all sorts of cool things together, like writing a script, finding the perfect music and clips, adding a voiceover, and putting it all together into a final video.\n\nSo, what kind of video are you thinking about creating today? I'm excited to get started",
+      "timestamp": "2025-07-27T23:49:22.764031",
+      "metadata": {}
+    },
+    {
+      "id": "0f5ce1fd-9071-49f2-8b7b-0d6369cc1da3",
+      "role": "user",
+      "content": "who is messi and what has he done",
+      "timestamp": "2025-07-27T23:49:34.908021",
+      "metadata": {}
+    },
+    {
+      "id": "33cde97f-b268-44b1-81c9-e72fe3cf0e79",
+      "role": "assistant",
+      "content": "Ah, Lionel Messi! He's an absolute legend in the world of soccer. He's an Argentinian professional soccer player who is widely regarded as one of the greatest players of all time. He's won a record number of Ballon d'Or awards, spent the majority of his iconic career at FC Barcelona, and most recently, he led Argentina to a World Cup victory in 2022!\n\nThis is actually a fantastic topic for a video. We could create an amazing short documentary or a highlight reel about his career.\n\nHow about we start with a script? I can put together a one-minute script that tells his incredible story. Does that sound like a good first step?",
+      "timestamp": "2025-07-27T23:49:45.522020",
+      "metadata": {}
+    }
+  ],
+  "current_project": null,
+  "user_preferences": null,
+  "created_at": "2025-07-27T23:49:19.854117",
+  "updated_at": "2025-07-27T23:49:45.522021"
+}

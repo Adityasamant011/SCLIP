@@ -1,0 +1,38 @@
+{
+  "session_id": "test_debug_2abe4c65",
+  "user_id": "default",
+  "conversation_history": [
+    {
+      "id": "aa6c6a7d-5905-4684-9e7a-1a391994fca7",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2025-07-27T23:50:00.696279",
+      "metadata": {}
+    },
+    {
+      "id": "80c2f2f5-ca91-49fb-8953-5cb9ae2b9374",
+      "role": "assistant",
+      "content": "Hey there! I'm Sclip, your AI assistant for video creation. I'm here to help you turn your ideas into awesome videos.\n\nWhat kind of video are you thinking about making today? We can start with a script, find some cool footage, or anything else you have in mind",
+      "timestamp": "2025-07-27T23:50:03.273179",
+      "metadata": {}
+    },
+    {
+      "id": "31131a11-0435-4dd1-9ecd-7ac9d3a9109a",
+      "role": "user",
+      "content": "who is messi and what has he done",
+      "timestamp": "2025-07-27T23:50:11.551899",
+      "metadata": {}
+    },
+    {
+      "id": "24fd8ef7-2c3d-48ce-bf33-4d522a0badf1",
+      "role": "assistant",
+      "content": "Of course! Lionel Messi is an absolute legend in the world of soccer, considered by many to be the greatest player of all time. He's an Argentinian forward who has won countless trophies and awards, including a record number of Ballon d'Or awards, which are given to the best player in the world. He spent the majority of his iconic career at FC Barcelona before moving to Paris Saint-Germain and now Inter Miami. And, to top it all off, he led Argentina to win the World Cup in 2022, which was the one major trophy that had eluded him.\n\nHis story is truly inspiring and would make for an amazing video! We could create a short, powerful video highlighting his incredible journey.\n\nHow about I draft a script for a 1-minute documentary-style video about his career? We can call it \"Messi: The GOAT\".",
+      "timestamp": "2025-07-27T23:50:21.522729",
+      "metadata": {}
+    }
+  ],
+  "current_project": null,
+  "user_preferences": null,
+  "created_at": "2025-07-27T23:50:00.696247",
+  "updated_at": "2025-07-27T23:50:21.522731"
+}

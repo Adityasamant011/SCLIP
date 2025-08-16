@@ -1,0 +1,314 @@
+[
+  {
+    "id": "sepia",
+    "name": "Sepia",
+    "description": "Classic sepia tone",
+    "category": "vintage"
+  },
+  {
+    "id": "monochrome",
+    "name": "Black & White",
+    "description": "Monochrome filter",
+    "category": "vintage"
+  },
+  {
+    "id": "vintage",
+    "name": "Vintage",
+    "description": "Retro film look",
+    "category": "vintage"
+  },
+  {
+    "id": "film_grain",
+    "name": "Film Grain",
+    "description": "Analog film texture",
+    "category": "vintage"
+  },
+  {
+    "id": "polaroid",
+    "name": "Polaroid",
+    "description": "Instant camera look",
+    "category": "vintage"
+  },
+  {
+    "id": "kodachrome",
+    "name": "Kodachrome",
+    "description": "Classic Kodak film",
+    "category": "vintage"
+  },
+  {
+    "id": "lomography",
+    "name": "Lomography",
+    "description": "Lo-fi camera aesthetic",
+    "category": "vintage"
+  },
+  {
+    "id": "cross_process",
+    "name": "Cross Process",
+    "description": "Film cross-processing",
+    "category": "vintage"
+  },
+  {
+    "id": "cyberpunk",
+    "name": "Cyberpunk",
+    "description": "Futuristic neon style",
+    "category": "stylized"
+  },
+  {
+    "id": "synthwave",
+    "name": "Synthwave",
+    "description": "80s retro aesthetic",
+    "category": "stylized"
+  },
+  {
+    "id": "noir",
+    "name": "Film Noir",
+    "description": "Classic noir look",
+    "category": "stylized"
+  },
+  {
+    "id": "bleach_bypass",
+    "name": "Bleach Bypass",
+    "description": "High contrast desaturated",
+    "category": "stylized"
+  },
+  {
+    "id": "matrix",
+    "name": "Matrix",
+    "description": "Green digital rain",
+    "category": "stylized"
+  },
+  {
+    "id": "thermal",
+    "name": "Thermal",
+    "description": "Heat vision effect",
+    "category": "stylized"
+  },
+  {
+    "id": "xray",
+    "name": "X-Ray",
+    "description": "X-ray vision effect",
+    "category": "stylized"
+  },
+  {
+    "id": "comic_book",
+    "name": "Comic Book",
+    "description": "Comic book illustration",
+    "category": "stylized"
+  },
+  {
+    "id": "warm",
+    "name": "Warm",
+    "description": "Warm color temperature",
+    "category": "color"
+  },
+  {
+    "id": "cool",
+    "name": "Cool",
+    "description": "Cool color temperature",
+    "category": "color"
+  },
+  {
+    "id": "orange_teal",
+    "name": "Orange & Teal",
+    "description": "Hollywood color grading",
+    "category": "color"
+  },
+  {
+    "id": "vibrance",
+    "name": "Vibrance",
+    "description": "Enhanced color saturation",
+    "category": "color"
+  },
+  {
+    "id": "desaturate",
+    "name": "Desaturate",
+    "description": "Reduced color saturation",
+    "category": "color"
+  },
+  {
+    "id": "hue_shift",
+    "name": "Hue Shift",
+    "description": "Color hue adjustment",
+    "category": "color"
+  },
+  {
+    "id": "color_pop",
+    "name": "Color Pop",
+    "description": "Selective color enhancement",
+    "category": "color"
+  },
+  {
+    "id": "duotone",
+    "name": "Duotone",
+    "description": "Two-color effect",
+    "category": "color"
+  },
+  {
+    "id": "soft_glow",
+    "name": "Soft Glow",
+    "description": "Dreamy soft lighting",
+    "category": "beauty"
+  },
+  {
+    "id": "skin_smooth",
+    "name": "Skin Smooth",
+    "description": "Beauty filter",
+    "category": "beauty"
+  },
+  {
+    "id": "portrait_enhance",
+    "name": "Portrait Enhance",
+    "description": "Portrait optimization",
+    "category": "beauty"
+  },
+  {
+    "id": "eye_brighten",
+    "name": "Eye Brighten",
+    "description": "Enhance eyes",
+    "category": "beauty"
+  },
+  {
+    "id": "teeth_whiten",
+    "name": "Teeth Whiten",
+    "description": "Whiten teeth",
+    "category": "beauty"
+  },
+  {
+    "id": "sharpen",
+    "name": "Sharpen",
+    "description": "Enhance image sharpness",
+    "category": "enhance"
+  },
+  {
+    "id": "clarity",
+    "name": "Clarity",
+    "description": "Mid-tone contrast",
+    "category": "enhance"
+  },
+  {
+    "id": "structure",
+    "name": "Structure",
+    "description": "Local contrast",
+    "category": "enhance"
+  },
+  {
+    "id": "dehaze",
+    "name": "Dehaze",
+    "description": "Remove atmospheric haze",
+    "category": "enhance"
+  },
+  {
+    "id": "noise_reduce",
+    "name": "Noise Reduce",
+    "description": "Reduce digital noise",
+    "category": "enhance"
+  },
+  {
+    "id": "gaussian_blur",
+    "name": "Gaussian Blur",
+    "description": "Smooth blur effect",
+    "category": "blur"
+  },
+  {
+    "id": "motion_blur",
+    "name": "Motion Blur",
+    "description": "Directional blur",
+    "category": "blur"
+  },
+  {
+    "id": "radial_blur",
+    "name": "Radial Blur",
+    "description": "Circular blur",
+    "category": "blur"
+  },
+  {
+    "id": "tilt_shift_blur",
+    "name": "Tilt-Shift Blur",
+    "description": "Focus plane blur",
+    "category": "blur"
+  },
+  {
+    "id": "depth_blur",
+    "name": "Depth Blur",
+    "description": "Depth of field",
+    "category": "blur"
+  },
+  {
+    "id": "vignette",
+    "name": "Vignette",
+    "description": "Dark edge framing",
+    "category": "frame"
+  },
+  {
+    "id": "border",
+    "name": "Border",
+    "description": "Picture frame border",
+    "category": "frame"
+  },
+  {
+    "id": "rounded_corners",
+    "name": "Rounded Corners",
+    "description": "Soft corner mask",
+    "category": "frame"
+  },
+  {
+    "id": "edge_detect",
+    "name": "Edge Detect",
+    "description": "Outline edges",
+    "category": "artistic"
+  },
+  {
+    "id": "emboss",
+    "name": "Emboss",
+    "description": "3D embossed effect",
+    "category": "artistic"
+  },
+  {
+    "id": "oil_painting",
+    "name": "Oil Painting",
+    "description": "Artistic oil paint",
+    "category": "artistic"
+  },
+  {
+    "id": "watercolor",
+    "name": "Watercolor",
+    "description": "Watercolor painting",
+    "category": "artistic"
+  },
+  {
+    "id": "pencil_sketch",
+    "name": "Pencil Sketch",
+    "description": "Hand-drawn sketch",
+    "category": "artistic"
+  },
+  {
+    "id": "cartoon",
+    "name": "Cartoon",
+    "description": "Cartoon illustration",
+    "category": "artistic"
+  },
+  {
+    "id": "pop_art",
+    "name": "Pop Art",
+    "description": "Pop art style",
+    "category": "artistic"
+  },
+  {
+    "id": "stained_glass",
+    "name": "Stained Glass",
+    "description": "Glass mosaic effect",
+    "category": "artistic"
+  },
+  {
+    "id": "mosaic",
+    "name": "Mosaic",
+    "description": "Tile mosaic pattern",
+    "category": "artistic"
+  },
+  {
+    "id": "posterize",
+    "name": "Posterize",
+    "description": "Reduce color levels",
+    "category": "artistic"
+  }
+] 

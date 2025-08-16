@@ -1,0 +1,52 @@
+{
+  "session_id": "test_detailed_4026a819",
+  "user_id": "default",
+  "conversation_history": [
+    {
+      "id": "e8f07ff3-9256-4613-b5fa-325ee45374ee",
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2025-07-27T23:47:43.086481",
+      "metadata": {}
+    },
+    {
+      "id": "9ea0c9e5-33f8-40ca-a84b-31d45063df44",
+      "role": "user",
+      "content": "who is messi and what has he done",
+      "timestamp": "2025-07-27T23:47:45.093016",
+      "metadata": {}
+    },
+    {
+      "id": "1a4fd5b3-d6f7-43db-8a60-179d9d8059b8",
+      "role": "user",
+      "content": "ye lets do it",
+      "timestamp": "2025-07-27T23:47:47.102373",
+      "metadata": {}
+    },
+    {
+      "id": "39765951-fa43-4e47-adf4-bd61ff3ad91f",
+      "role": "user",
+      "content": "bro we just talked about the messi video",
+      "timestamp": "2025-07-27T23:47:49.110668",
+      "metadata": {}
+    },
+    {
+      "id": "520c40be-c7a5-4434-a963-84930781fe70",
+      "role": "user",
+      "content": "so do it then",
+      "timestamp": "2025-07-27T23:47:51.123429",
+      "metadata": {}
+    },
+    {
+      "id": "0172f064-feb0-4ca7-8741-35c16670ed34",
+      "role": "user",
+      "content": "do you know what we have just talked about",
+      "timestamp": "2025-07-27T23:47:53.135885",
+      "metadata": {}
+    }
+  ],
+  "current_project": null,
+  "user_preferences": null,
+  "created_at": "2025-07-27T23:47:43.086452",
+  "updated_at": "2025-07-27T23:47:53.135889"
+}

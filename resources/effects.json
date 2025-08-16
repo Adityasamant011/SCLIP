@@ -1,0 +1,61 @@
+[
+  {"id": "zoom_in", "name": "Zoom In", "description": "Smooth zoom in effect", "category": "movement"},
+  {"id": "zoom_out", "name": "Zoom Out", "description": "Smooth zoom out effect", "category": "movement"},
+  {"id": "pan_left", "name": "Pan Left", "description": "Pan camera to the left", "category": "movement"},
+  {"id": "pan_right", "name": "Pan Right", "description": "Pan camera to the right", "category": "movement"},
+  {"id": "pan_up", "name": "Pan Up", "description": "Pan camera upwards", "category": "movement"},
+  {"id": "pan_down", "name": "Pan Down", "description": "Pan camera downwards", "category": "movement"},
+  {"id": "shake_mild", "name": "Shake (Mild)", "description": "Gentle camera shake", "category": "movement"},
+  {"id": "shake_strong", "name": "Shake (Strong)", "description": "Intense camera shake", "category": "movement"},
+  {"id": "rotate_cw", "name": "Rotate Clockwise", "description": "Clockwise rotation", "category": "movement"},
+  {"id": "rotate_ccw", "name": "Rotate Counter-CW", "description": "Counter-clockwise rotation", "category": "movement"},
+  
+  {"id": "ken_burns", "name": "Ken Burns", "description": "Classic documentary zoom and pan", "category": "cinematic"},
+  {"id": "dolly_zoom", "name": "Dolly Zoom", "description": "Vertigo-style zoom effect", "category": "cinematic"},
+  {"id": "tilt_shift", "name": "Tilt Shift", "description": "Miniature effect", "category": "cinematic"},
+  {"id": "barrel_roll", "name": "Barrel Roll", "description": "360 degree rotation", "category": "cinematic"},
+  {"id": "spiral_zoom", "name": "Spiral Zoom", "description": "Zoom with spiral motion", "category": "cinematic"},
+  
+  {"id": "fade_in", "name": "Fade In", "description": "Fade from black", "category": "opacity"},
+  {"id": "fade_out", "name": "Fade Out", "description": "Fade to black", "category": "opacity"},
+  {"id": "fade_white_in", "name": "Fade White In", "description": "Fade from white", "category": "opacity"},
+  {"id": "fade_white_out", "name": "Fade White Out", "description": "Fade to white", "category": "opacity"},
+  {"id": "flash", "name": "Flash", "description": "Bright flash effect", "category": "opacity"},
+  {"id": "strobe", "name": "Strobe", "description": "Flickering strobe light", "category": "opacity"},
+  {"id": "pulse", "name": "Pulse", "description": "Pulsing brightness", "category": "opacity"},
+  
+  {"id": "rgb_split", "name": "RGB Split", "description": "Chromatic aberration", "category": "glitch"},
+  {"id": "glitch_digital", "name": "Digital Glitch", "description": "Digital corruption effect", "category": "glitch"},
+  {"id": "glitch_analog", "name": "Analog Glitch", "description": "VHS-style distortion", "category": "glitch"},
+  {"id": "pixel_sort", "name": "Pixel Sort", "description": "Pixel sorting glitch", "category": "glitch"},
+  {"id": "datamosh", "name": "Datamosh", "description": "Data corruption effect", "category": "glitch"},
+  {"id": "scan_lines", "name": "Scan Lines", "description": "TV scan line effect", "category": "glitch"},
+  {"id": "noise_overlay", "name": "Noise Overlay", "description": "Digital noise overlay", "category": "glitch"},
+  
+  {"id": "speed_ramp_up", "name": "Speed Ramp Up", "description": "Accelerating motion", "category": "time"},
+  {"id": "speed_ramp_down", "name": "Speed Ramp Down", "description": "Decelerating motion", "category": "time"},
+  {"id": "freeze_frame", "name": "Freeze Frame", "description": "Freeze at key moment", "category": "time"},
+  {"id": "rewind", "name": "Rewind", "description": "Reverse playback", "category": "time"},
+  {"id": "time_echo", "name": "Time Echo", "description": "Multiple time exposures", "category": "time"},
+  
+  {"id": "frame_hold", "name": "Frame Hold", "description": "Hold current frame", "category": "frame"},
+  {"id": "frame_blend", "name": "Frame Blend", "description": "Blend multiple frames", "category": "frame"},
+  {"id": "frame_skip", "name": "Frame Skip", "description": "Skip frames for stuttering", "category": "frame"},
+  {"id": "ghost_trail", "name": "Ghost Trail", "description": "Motion trail effect", "category": "frame"},
+  
+  {"id": "lens_flare", "name": "Lens Flare", "description": "Bright lens flare", "category": "light"},
+  {"id": "light_leak", "name": "Light Leak", "description": "Film light leak", "category": "light"},
+  {"id": "god_rays", "name": "God Rays", "description": "Volumetric light rays", "category": "light"},
+  {"id": "spotlight", "name": "Spotlight", "description": "Dramatic spotlight", "category": "light"},
+  
+  {"id": "wave_distort", "name": "Wave Distortion", "description": "Wave-like distortion", "category": "distortion"},
+  {"id": "ripple", "name": "Ripple", "description": "Water ripple effect", "category": "distortion"},
+  {"id": "fisheye", "name": "Fisheye", "description": "Fisheye lens distortion", "category": "distortion"},
+  {"id": "mirror", "name": "Mirror", "description": "Mirror reflection", "category": "distortion"},
+  {"id": "kaleidoscope", "name": "Kaleidoscope", "description": "Kaleidoscope pattern", "category": "distortion"},
+  
+  {"id": "particle_burst", "name": "Particle Burst", "description": "Particle explosion", "category": "particles"},
+  {"id": "snow", "name": "Snow", "description": "Falling snow particles", "category": "particles"},
+  {"id": "rain", "name": "Rain", "description": "Rain effect", "category": "particles"},
+  {"id": "sparkles", "name": "Sparkles", "description": "Magical sparkles", "category": "particles"}
+] 

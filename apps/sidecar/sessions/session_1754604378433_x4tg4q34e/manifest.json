@@ -1,0 +1,308 @@
+{
+  "session_id": "session_1754604378433_x4tg4q34e",
+  "last_result": {
+    "video_path": "sessions\\session_1754604378433_x4tg4q34e\\videos\\audio_only_video_20250808_002752.mp4",
+    "duration": 1.0,
+    "format": "MP4",
+    "resolution": "1920x1080",
+    "fps": 30,
+    "file_size": 24249,
+    "session_id": "session_1754604378433_x4tg4q34e",
+    "metadata": {
+      "style": "cinematic",
+      "processing_time": "2025-08-08T00:27:53.022496",
+      "type": "audio_only_video",
+      "broll_count": 0
+    }
+  },
+  "history": [
+    {
+      "timestamp": "2025-08-08T00:10:05.099041",
+      "result": {
+        "video_path": "sessions\\session_1754604378433_x4tg4q34e\\videos\\audio_only_video_20250808_001004.mp4",
+        "duration": 1.0,
+        "format": "MP4",
+        "resolution": "1920x1080",
+        "fps": 30,
+        "file_size": 24249,
+        "session_id": "session_1754604378433_x4tg4q34e",
+        "metadata": {
+          "style": "cinematic",
+          "processing_time": "2025-08-08T00:10:05.098932",
+          "type": "audio_only_video",
+          "broll_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-08T00:12:25.128683",
+      "result": {
+        "video_path": "sessions\\session_1754604378433_x4tg4q34e\\videos\\audio_only_video_20250808_001224.mp4",
+        "duration": 1.0,
+        "format": "MP4",
+        "resolution": "1920x1080",
+        "fps": 30,
+        "file_size": 24249,
+        "session_id": "session_1754604378433_x4tg4q34e",
+        "metadata": {
+          "style": "cinematic",
+          "processing_time": "2025-08-08T00:12:25.120524",
+          "type": "audio_only_video",
+          "broll_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-08T00:13:06.397119",
+      "result": {
+        "video_path": "sessions\\session_1754604378433_x4tg4q34e\\videos\\audio_only_video_20250808_001306.mp4",
+        "duration": 1.0,
+        "format": "MP4",
+        "resolution": "1920x1080",
+        "fps": 30,
+        "file_size": 24249,
+        "session_id": "session_1754604378433_x4tg4q34e",
+        "metadata": {
+          "style": "cinematic",
+          "processing_time": "2025-08-08T00:13:06.389398",
+          "type": "audio_only_video",
+          "broll_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-08T00:13:44.864098",
+      "result": {
+        "video_path": "sessions\\session_1754604378433_x4tg4q34e\\videos\\audio_only_video_20250808_001344.mp4",
+        "duration": 1.0,
+        "format": "MP4",
+        "resolution": "1920x1080",
+        "fps": 30,
+        "file_size": 24249,
+        "session_id": "session_1754604378433_x4tg4q34e",
+        "metadata": {
+          "style": "cinematic",
+          "processing_time": "2025-08-08T00:13:44.852084",
+          "type": "audio_only_video",
+          "broll_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-08T00:14:52.879949",
+      "result": {
+        "video_path": "sessions\\session_1754604378433_x4tg4q34e\\videos\\audio_only_video_20250808_001452.mp4",
+        "duration": 1.0,
+        "format": "MP4",
+        "resolution": "1920x1080",
+        "fps": 30,
+        "file_size": 24249,
+        "session_id": "session_1754604378433_x4tg4q34e",
+        "metadata": {
+          "style": "cinematic",
+          "processing_time": "2025-08-08T00:14:52.870891",
+          "type": "audio_only_video",
+          "broll_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-08T00:15:45.017007",
+      "result": {
+        "video_path": "sessions\\session_1754604378433_x4tg4q34e\\videos\\audio_only_video_20250808_001544.mp4",
+        "duration": 1.0,
+        "format": "MP4",
+        "resolution": "1920x1080",
+        "fps": 30,
+        "file_size": 24249,
+        "session_id": "session_1754604378433_x4tg4q34e",
+        "metadata": {
+          "style": "cinematic",
+          "processing_time": "2025-08-08T00:15:45.016705",
+          "type": "audio_only_video",
+          "broll_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-08T00:17:02.759574",
+      "result": {
+        "video_path": "sessions\\session_1754604378433_x4tg4q34e\\videos\\audio_only_video_20250808_001701.mp4",
+        "duration": 1.0,
+        "format": "MP4",
+        "resolution": "1920x1080",
+        "fps": 30,
+        "file_size": 24249,
+        "session_id": "session_1754604378433_x4tg4q34e",
+        "metadata": {
+          "style": "cinematic",
+          "processing_time": "2025-08-08T00:17:02.751315",
+          "type": "audio_only_video",
+          "broll_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-08T00:18:17.356066",
+      "result": {
+        "video_path": "sessions\\session_1754604378433_x4tg4q34e\\videos\\audio_only_video_20250808_001817.mp4",
+        "duration": 1.0,
+        "format": "MP4",
+        "resolution": "1920x1080",
+        "fps": 30,
+        "file_size": 24249,
+        "session_id": "session_1754604378433_x4tg4q34e",
+        "metadata": {
+          "style": "cinematic",
+          "processing_time": "2025-08-08T00:18:17.345915",
+          "type": "audio_only_video",
+          "broll_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-08T00:18:29.965867",
+      "result": {
+        "video_path": "sessions\\session_1754604378433_x4tg4q34e\\videos\\audio_only_video_20250808_001829.mp4",
+        "duration": 1.0,
+        "format": "MP4",
+        "resolution": "1920x1080",
+        "fps": 30,
+        "file_size": 24249,
+        "session_id": "session_1754604378433_x4tg4q34e",
+        "metadata": {
+          "style": "cinematic",
+          "processing_time": "2025-08-08T00:18:29.957616",
+          "type": "audio_only_video",
+          "broll_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-08T00:19:38.129385",
+      "result": {
+        "video_path": "sessions\\session_1754604378433_x4tg4q34e\\videos\\audio_only_video_20250808_001937.mp4",
+        "duration": 1.0,
+        "format": "MP4",
+        "resolution": "1920x1080",
+        "fps": 30,
+        "file_size": 24249,
+        "session_id": "session_1754604378433_x4tg4q34e",
+        "metadata": {
+          "style": "cinematic",
+          "processing_time": "2025-08-08T00:19:38.116740",
+          "type": "audio_only_video",
+          "broll_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-08T00:21:10.872091",
+      "result": {
+        "video_path": "sessions\\session_1754604378433_x4tg4q34e\\videos\\audio_only_video_20250808_002110.mp4",
+        "duration": 1.0,
+        "format": "MP4",
+        "resolution": "1920x1080",
+        "fps": 30,
+        "file_size": 24249,
+        "session_id": "session_1754604378433_x4tg4q34e",
+        "metadata": {
+          "style": "cinematic",
+          "processing_time": "2025-08-08T00:21:10.871718",
+          "type": "audio_only_video",
+          "broll_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-08T00:21:26.981204",
+      "result": {
+        "video_path": "sessions\\session_1754604378433_x4tg4q34e\\videos\\audio_only_video_20250808_002126.mp4",
+        "duration": 1.0,
+        "format": "MP4",
+        "resolution": "1920x1080",
+        "fps": 30,
+        "file_size": 24249,
+        "session_id": "session_1754604378433_x4tg4q34e",
+        "metadata": {
+          "style": "cinematic",
+          "processing_time": "2025-08-08T00:21:26.971483",
+          "type": "audio_only_video",
+          "broll_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-08T00:24:18.210274",
+      "result": {
+        "video_path": "sessions\\session_1754604378433_x4tg4q34e\\videos\\audio_only_video_20250808_002417.mp4",
+        "duration": 1.0,
+        "format": "MP4",
+        "resolution": "1920x1080",
+        "fps": 30,
+        "file_size": 24249,
+        "session_id": "session_1754604378433_x4tg4q34e",
+        "metadata": {
+          "style": "cinematic",
+          "processing_time": "2025-08-08T00:24:18.195413",
+          "type": "audio_only_video",
+          "broll_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-08T00:26:50.681497",
+      "result": {
+        "video_path": "sessions\\session_1754604378433_x4tg4q34e\\videos\\audio_only_video_20250808_002650.mp4",
+        "duration": 1.0,
+        "format": "MP4",
+        "resolution": "1920x1080",
+        "fps": 30,
+        "file_size": 24249,
+        "session_id": "session_1754604378433_x4tg4q34e",
+        "metadata": {
+          "style": "cinematic",
+          "processing_time": "2025-08-08T00:26:50.681171",
+          "type": "audio_only_video",
+          "broll_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-08T00:27:37.761666",
+      "result": {
+        "video_path": "sessions\\session_1754604378433_x4tg4q34e\\videos\\audio_only_video_20250808_002737.mp4",
+        "duration": 1.0,
+        "format": "MP4",
+        "resolution": "1920x1080",
+        "fps": 30,
+        "file_size": 24249,
+        "session_id": "session_1754604378433_x4tg4q34e",
+        "metadata": {
+          "style": "cinematic",
+          "processing_time": "2025-08-08T00:27:37.753595",
+          "type": "audio_only_video",
+          "broll_count": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-08T00:27:53.030351",
+      "result": {
+        "video_path": "sessions\\session_1754604378433_x4tg4q34e\\videos\\audio_only_video_20250808_002752.mp4",
+        "duration": 1.0,
+        "format": "MP4",
+        "resolution": "1920x1080",
+        "fps": 30,
+        "file_size": 24249,
+        "session_id": "session_1754604378433_x4tg4q34e",
+        "metadata": {
+          "style": "cinematic",
+          "processing_time": "2025-08-08T00:27:53.022496",
+          "type": "audio_only_video",
+          "broll_count": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1738 @@
+# tactiq.io free youtube transcript
+# How I Got 46 Million Views From ONE Short-Form Video (Copy Me)
+# https://www.youtube.com/watch/VEcU_VnlX7c
+
+00:00:00.080 in this video I'm going to break down my
+00:00:01.680 most viral short form video ever I
+00:00:03.959 posted it 8 days ago 46 million views
+00:00:07.120 14.5 million on Instagram 6.5 million on
+00:00:09.880 Tik Tok 23 million on LinkedIn 2.1
+00:00:12.719 million on YouTube shorts now anytime
+00:00:14.280 you have a video go this viral in
+00:00:16.039 multiple different places you want to
+00:00:17.640 study it intensely because content
+00:00:19.760 really is an outliers game and when you
+00:00:21.760 get one the best way to spend your
+00:00:23.720 content analysis time is to reverse
+00:00:25.920 engineer why the outlier happened and
+00:00:28.320 that's exactly what we're going to do in
+00:00:29.519 this video so I'm going to break down
+00:00:30.840 three things first I'm going to take the
+00:00:32.960 idea as a whole and I'm going to walk
+00:00:35.040 through my virality formula and talk
+00:00:37.000 about why this idea had viral potential
+00:00:39.559 second I'm going to open up this script
+00:00:41.079 document and I'm going to walk through
+00:00:42.440 six things that I did when writing the
+00:00:44.280 script to give this the best chance for
+00:00:46.399 viral success and third I'm going to
+00:00:48.280 then open up the full edit in Premiere
+00:00:50.680 Pro I'm going to show you the timeline
+00:00:52.039 I'm going to walk through eight things I
+00:00:53.480 did in the edit to give it the best
+00:00:55.120 chance to go viral this will be a master
+00:00:57.359 class in short form virality after you
+00:00:59.519 watch this video you'll have everything
+00:01:01.440 you need to understand how to make your
+00:01:03.680 content go more viral all right so
+00:01:05.280 before we get into anything I just want
+00:01:06.760 to play the video on the screen if
+00:01:08.520 you've already seen it just fast forward
+00:01:10.119 60 seconds we'll start that now check
+00:01:12.799 this out this guy's building a real Iron
+00:01:15.000 Man suit in his garage but to do it he
+00:01:17.200 had to invent the world's first personal
+00:01:19.840 hydrogen reactor it's insane this is
+00:01:22.240 Alex he's a Russian engineer and his
+00:01:24.320 fans call him the real Tony Stark now in
+00:01:26.600 order to make this suit functional he
+00:01:28.159 had to invent a bunch of new things the
+00:01:30.000 actor is one but he also built this a
+00:01:32.280 Pneumatic sensor system that links the
+00:01:34.200 suit's movement with his own so when he
+00:01:36.240 flexes it flexes just like the one in
+00:01:38.240 the movie he also designed a plasma
+00:01:40.040 propulsion system to make the jet
+00:01:41.759 thrusters and Cutters actually work it's
+00:01:43.640 pretty nuts but the craziest part of all
+00:01:45.280 is that he's been documenting the whole
+00:01:46.719 Journey on YouTube 6 years countless
+00:01:49.560 videos his channel is called Alex lab
+00:01:51.640 and every video has millions of views
+00:01:53.119 now after 6 years the fully finished
+00:01:54.920 suit is about to debut soon and he
+00:01:56.799 really did it in a cave with a box of
+00:01:58.719 scraps all right so I want to get into
+00:01:59.920 to the idea breakdown first and
+00:02:01.880 specifically before you script or edit
+00:02:04.240 or do any of that work first thing you
+00:02:05.759 should do is gut check does this idea
+00:02:07.880 have viral potential now it's not
+00:02:10.000 important that every single video goes
+00:02:11.440 viral I actually recommend a Content
+00:02:12.840 strategy that's a mix of broad top of
+00:02:14.640 funnel virality with narrow deep content
+00:02:17.239 designed to build depth but I'm trying
+00:02:19.080 to maximize my unit time spent and so
+00:02:21.599 viral videos give me the most reach and
+00:02:23.560 the most Effectiveness for my time spent
+00:02:25.920 that's why I try to vet everything I
+00:02:27.879 make through this viral content formula
+00:02:30.519 now if you haven't seen the formula I'll
+00:02:31.879 link the video here where I broke down
+00:02:33.879 everything in super deep detail gave
+00:02:35.840 examples everything you need to go viral
+00:02:37.560 is in there so the first three variables
+00:02:39.879 that matter and these are probably the
+00:02:41.000 most important variables honestly in the
+00:02:42.480 virality formula is the idea the
+00:02:44.760 addressable audience and then the point
+00:02:46.560 of view or the story lens all right so
+00:02:48.560 when it comes to idea you really have
+00:02:49.560 two options you can either go common or
+00:02:51.599 uncommon common is something like apple
+00:02:53.640 just dropped the iPhone 16 anybody with
+00:02:55.599 a pulse that open social media would see
+00:02:57.319 that uncommon is something weird or
+00:02:59.280 unique or on the edge that most people
+00:03:01.599 haven't come across before if you're
+00:03:03.200 going to go for virality you want to go
+00:03:04.920 for uncommon if possible so in this case
+00:03:07.120 the video idea was a Russian engineer
+00:03:09.560 building a real functional Iron Man suit
+00:03:11.640 in his garage that is about as uncommon
+00:03:14.239 as you can get if it hasn't already been
+00:03:16.440 shared by someone else so that's check
+00:03:18.319 one right off the bat I knew this idea
+00:03:19.760 had some potential when I came across
+00:03:21.640 just based on the uncommon nature of the
+00:03:23.920 idea now the second piece in the formula
+00:03:25.519 is to look at the applicable audience
+00:03:27.680 size how many people would potten share
+00:03:30.439 this or be interested in Sharing if it
+00:03:32.439 came across their feed because if you
+00:03:34.439 have an uncommon idea but the
+00:03:36.319 applicability of the audience is super
+00:03:38.080 small it's probably not going to go
+00:03:39.319 viral there just aren't enough people to
+00:03:41.159 share it when it finds them for example
+00:03:42.840 if this idea was a Russian engineer
+00:03:44.599 builds a toy train set in his garage
+00:03:47.319 that's kind of Niche right the only
+00:03:48.519 people that would share that are people
+00:03:49.519 that are into engineering or into trains
+00:03:51.439 it's too small to go viral in this case
+00:03:54.120 I knew that the applicability of the
+00:03:55.879 audience was anybody who's into Iron Man
+00:03:58.480 the movie the Marvel movie
+00:04:00.239 or anyone that was into robotics or
+00:04:02.079 engineering together that some total of
+00:04:04.239 applicable audience is pretty large so
+00:04:06.480 right there I had an uncommon idea plus
+00:04:09.079 a abnormally large audience I knew that
+00:04:11.680 if I was able to execute that priming
+00:04:14.239 had the chance to go super viral and the
+00:04:16.160 way I validated that and how you should
+00:04:17.959 validate this as well is I saw a video
+00:04:20.279 about this on Twitter that video had 12
+00:04:22.720 million views and was actually a
+00:04:23.960 terrible video edited poorly no
+00:04:25.880 storytelling so I knew this already was
+00:04:28.520 validated now the third variable that
+00:04:30.600 matters is point of view or story lens
+00:04:33.400 typically if you pick a common idea like
+00:04:35.479 if I was just making a video about the
+00:04:37.039 Marvel movie Iron Man I'd want a unique
+00:04:39.840 story lens or point of view on top of it
+00:04:42.000 because if I make a common idea that
+00:04:43.360 people have seen before they're not
+00:04:44.479 going to share it so you need common
+00:04:46.039 idea and unique lens or if you have
+00:04:48.320 uncommon idea it's fine to just go with
+00:04:50.120 a normal lens like just a story tell or
+00:04:52.160 tell people exactly what happened in
+00:04:53.800 this case I didn't go with a Marvel
+00:04:55.120 movie the lens was kind of baked in in
+00:04:57.440 the fact that it was a Russian engineer
+00:04:59.160 making his own Iron Man suit so I didn't
+00:05:01.120 really need to go crazy with the lens I
+00:05:02.720 could just tell people exactly what I
+00:05:04.360 saw and that's what I did in this step
+00:05:06.240 this seems easy but this is a critical
+00:05:08.680 piece if you're trying to get videos
+00:05:09.880 that break out and have tons of views
+00:05:11.639 you have to have cracked this threepiece
+00:05:14.080 variable set of the virality formula you
+00:05:16.360 have to have an uncommon idea or a
+00:05:17.880 common idea with an uncommon point of
+00:05:19.240 view and you need an unnaturally large
+00:05:21.199 applicable audience if you don't have
+00:05:22.680 those things if those three things are
+00:05:24.039 not true I don't care what you do how
+00:05:26.199 great of a story you tell that video is
+00:05:28.120 not going viral and if you want to know
+00:05:29.800 why that's true you can either watch
+00:05:31.479 this virality formula video that I put
+00:05:33.759 together where I explain exactly the
+00:05:35.520 psychology behind why things go viral or
+00:05:38.039 I actually built a 5-day free series
+00:05:41.000 that kind of walks through my thinking
+00:05:42.440 in way more detail it's at virality
+00:05:44.560 blueprint.com it's like a little 5-day
+00:05:46.600 free ebook you can download that and go
+00:05:48.880 through the course that helps break down
+00:05:51.039 the psychology it's really important to
+00:05:52.560 know the psychology behind why things go
+00:05:54.400 viral all right so that's part one
+00:05:55.720 that's the idea so I knew that I had
+00:05:57.720 something here if I could execute and
+00:05:59.360 that's step one now let's go into the
+00:06:00.720 execution so we're going to transition
+00:06:02.160 now into the script I'm going to pull up
+00:06:03.759 the script and we're going to walk
+00:06:04.840 through it all right here we go so this
+00:06:06.000 is the script document nothing fancy
+00:06:07.720 just to Google doc you can see the full
+00:06:09.440 script here this is a 45C video so it
+00:06:11.360 doesn't even take up a full page what
+00:06:12.919 I've done is I colorcoded the script I
+00:06:15.319 copied it six times and colorcoded each
+00:06:17.360 piece that we're going to talk about so
+00:06:18.479 I'm going to scroll down to each version
+00:06:20.080 I'm going to walk through exactly what I
+00:06:21.919 do in the script now every script varies
+00:06:24.319 but there are some principles and some
+00:06:26.319 things you can extract away from the
+00:06:28.240 script that you can start applying to
+00:06:29.680 videos immediately and I'll call out one
+00:06:31.160 thing the biggest request I've gotten
+00:06:32.840 from other creators entrepreneurs
+00:06:34.440 marketers everybody who's trying to
+00:06:35.599 crack short form video they look at me
+00:06:37.199 as someone who understands storytelling
+00:06:38.759 expertly and what they want is a tool
+00:06:40.960 that could package the way I think about
+00:06:42.639 storytelling into some software some
+00:06:44.520 platform that would allow them to write
+00:06:46.319 video scripts immediately and that's
+00:06:47.840 what I'm building it's called
+00:06:48.759 sandcastles it's at sandcastles we're
+00:06:51.440 finishing it up now there's a wait list
+00:06:53.120 there if this is interesting to you if
+00:06:54.800 you want a piece of software that will
+00:06:56.160 allow you to immediately Sprint through
+00:06:58.840 the storytelling part write a script
+00:07:00.680 iteratively come up with the angle come
+00:07:02.599 up with the story lens talk to you if
+00:07:04.840 you want that it's going to be really
+00:07:06.160 cool make sure you're on the wait list
+00:07:07.560 sand castle. a the people that are on
+00:07:09.120 the wait list before we launch are going
+00:07:10.160 to get a preferred price forever so if
+00:07:12.000 it's interesting check that out now
+00:07:13.319 let's get back to this let's go through
+00:07:14.560 the six things all right so I'm going to
+00:07:15.720 scroll down now the very first thing you
+00:07:17.759 see is this yellow so I just want you to
+00:07:20.479 look at this first couple sentences this
+00:07:22.919 is what I call the Curiosity Loop and
+00:07:24.720 it's very simple when you hear the first
+00:07:26.440 sentence does it invoke this maddening
+00:07:28.960 curiosity that makes you want to hear
+00:07:30.879 the second sentence if you don't open a
+00:07:32.800 loop in somebody's brain where they're
+00:07:34.599 curious enough to watch on to close that
+00:07:36.520 Loop you've lost them and so the number
+00:07:38.319 one thing that I do when I'm writing
+00:07:39.960 they call it the hook the body whatever
+00:07:41.280 people overblow it all you need is a
+00:07:42.560 curiosity Loop and so in yellow here
+00:07:44.759 I've highlighted my curiosity loop I say
+00:07:46.680 check this out at the beginning you
+00:07:47.560 don't need to do that this guy's
+00:07:48.720 building a real Iron Man suit in his
+00:07:50.599 garage but to do it he had to invent the
+00:07:53.000 world's first personal hydrogen reactor
+00:07:55.720 now that is a banger curiosity Loop if
+00:07:58.560 you've ever seen Iron Man which to go
+00:08:00.560 back to the idea large appable audience
+00:08:02.319 I knew a lot of people have seen it this
+00:08:03.599 guy's building a real Iron Man suit in
+00:08:05.039 his garage I knew that if I had a visual
+00:08:06.800 to go with that immediately that alone
+00:08:08.400 would be like what he's building a full
+00:08:09.639 Iron Man suit now you may have seen that
+00:08:11.039 before there's probably four or five
+00:08:12.120 people online that are building the suit
+00:08:13.520 but to differentiate he had to invent
+00:08:15.720 the world's first personal hydrogen
+00:08:17.240 reactor when you hear that and you see
+00:08:19.240 the chest piece on him glowing which I
+00:08:21.840 knew I had that as a visual and we'll
+00:08:23.080 get to that in the edit I knew that
+00:08:24.319 created a curiosity Loop so strong that
+00:08:26.000 if you've seen Iron Man or not you were
+00:08:27.840 just shocked that this is even possible
+00:08:29.520 you'd have to read on you'd have to
+00:08:30.840 listen on you'd have to follow along in
+00:08:32.559 your videos the ones that haven't done
+00:08:34.080 well I guarantee you haven't created a
+00:08:36.399 deep enough curiosity loop around
+00:08:38.200 whatever you're talking about so that's
+00:08:39.360 step one got to have the Curiosity Loop
+00:08:41.159 now step two there's two things here and
+00:08:42.958 it all goes into this idea of Rhythm and
+00:08:45.200 variance okay so something I teach is I
+00:08:47.839 want you to look down the script what
+00:08:49.640 you don't see is every sentence the same
+00:08:52.080 length you don't see a clear rectangle
+00:08:54.080 you see Jagged edges why is that there's
+00:08:56.519 a principle in writing and reading that
+00:08:59.120 if you vary the Rhythm and the length of
+00:09:01.720 each sentence it creates more
+00:09:03.160 unpredictability it creates a better
+00:09:04.600 Rhythm to the ear than if you were
+00:09:06.279 saying the same length sentence over and
+00:09:08.240 over and to prove it to you I will say
+00:09:09.839 two things the first thing listen to
+00:09:11.480 this first thing you can close your eyes
+00:09:12.920 he had jumped over the river the river
+00:09:14.720 was really Brown the brown River was in
+00:09:16.760 his way he crossed the river and went
+00:09:18.519 along see how boring that sounds it's
+00:09:20.399 like so predictable you just PLS along
+00:09:22.800 instead if you listen to the way I read
+00:09:24.720 this this is Alex he's a Russian
+00:09:26.240 engineer and his fans call him the real
+00:09:28.120 Tony Stark now in order make the suit
+00:09:29.959 functional he's had to invent a bunch of
+00:09:31.760 new things the reactor is one but he's
+00:09:34.200 also built this and I said that one
+00:09:36.040 obviously with a little bit more pace
+00:09:37.200 and passion but you can hear the Cadence
+00:09:39.399 and the length of sentences really
+00:09:41.279 varies the delivery speed if you really
+00:09:43.120 think about it and I've mentioned this
+00:09:44.160 in other videos rhythm is the most
+00:09:45.920 important thing to making anything
+00:09:47.480 videos are really just audio and audio
+00:09:49.600 varies with rhythm people hear in Rhythm
+00:09:51.839 your voice is like an instrument and so
+00:09:53.440 you want to vary the sentence length
+00:09:55.040 that's the first thing you notice now
+00:09:55.959 the second thing are these little red
+00:09:57.480 lines I call these tags what these are
+00:09:59.839 are these little Jabs you know when a
+00:10:01.600 comedian is putting a set together they
+00:10:03.399 write a joke they're setting up for a
+00:10:05.000 punchline but along the way they have
+00:10:06.399 these little things called Tags so
+00:10:07.720 they'll just come in and then bang just
+00:10:09.079 like a little jab jab jab and then
+00:10:10.800 they'll set up for the huge Haymaker
+00:10:12.640 punchline I try to do the same thing
+00:10:14.360 every so often in the video I write
+00:10:15.800 these little tags three four words just
+00:10:17.839 rhythmically it helps offset the
+00:10:20.279 plotting along of the long sentences and
+00:10:22.440 so you don't have to do it like me in
+00:10:24.000 fact I'd encourage you not to because
+00:10:25.440 unless you deliver in the way I deliver
+00:10:27.560 and I used to rap so like you can hear
+00:10:29.360 kind of the Rhythm in my voice unless
+00:10:30.600 you deliver in this way I wouldn't try
+00:10:32.040 to force these in but when you're
+00:10:33.440 writing if things start to seem
+00:10:35.279 monotonous and plotty just add a little
+00:10:37.320 tag in a little three four word thing
+00:10:39.760 that will helps get people back off
+00:10:41.680 balance that will help add more Rhythm
+00:10:43.360 so that's that's tip number two is make
+00:10:44.920 sure the sentences vary in length and
+00:10:47.160 the easiest way is just to look at the
+00:10:48.600 script and make sure it has Jagged edges
+00:10:50.560 it's not a straight edge and then two is
+00:10:52.320 consider adding some tags in throughout
+00:10:54.560 to help break up the pace all right
+00:10:56.160 let's go to piece number three so piece
+00:10:57.519 number three is reh hooking now a lot of
+00:11:00.200 people the gurus the content gurus they
+00:11:02.839 all say you want a hook and then you
+00:11:04.360 want to have a body and then you want to
+00:11:05.600 have a close I think that's nonsense I
+00:11:07.200 don't think that's how you should do it
+00:11:08.440 the hook is what keeps someone
+00:11:09.880 interested so what you should really do
+00:11:11.639 is hook and then rehook and then rehook
+00:11:14.360 and then rehook and until the end so the
+00:11:16.440 video is made up of three or four
+00:11:18.079 sentence phrases each phrase should end
+00:11:20.600 in a hook the Curiosity loop at the
+00:11:22.399 beginning you should be hooking them
+00:11:23.920 they should be wanting to hear the next
+00:11:25.160 piece and again and again and again this
+00:11:26.880 is what helps pull them through you
+00:11:28.600 don't want to push through the video you
+00:11:30.079 want this the words and the phrasing to
+00:11:32.240 pull them through so the best way to
+00:11:34.120 hook is to use the words but or
+00:11:36.279 therefore to create some conflict in the
+00:11:38.920 words and so if you look at the green
+00:11:40.720 I've actually used but three times so
+00:11:43.000 I've got three hooks in here to re hook
+00:11:45.720 then rehook then rehook now this is only
+00:11:47.200 a 45 second video so there's only so
+00:11:48.680 many times you can hook and if you say
+00:11:50.160 but too frequently it kind of sounds off
+00:11:52.160 it's like you're forcing it in so you
+00:11:53.440 really only want to use it when it makes
+00:11:55.279 sense but here I've used it three times
+00:11:57.000 so the first one was at the very
+00:11:58.519 beginning but to do do it he had to
+00:11:59.880 invent the world's first personal
+00:12:01.079 hydrogen reactor so I was adding some
+00:12:02.760 conflict he made the suit but he had to
+00:12:04.560 overcome this crazy thing to make it
+00:12:05.920 work so that was the first one the
+00:12:07.279 second one is the reactor is one but he
+00:12:09.440 also built this so again it's like we
+00:12:11.360 just talked about this one thing but
+00:12:12.560 wait there's one other thing so that's a
+00:12:14.040 second hook and then the third Hook is
+00:12:15.680 he did this this is but the craziest
+00:12:17.240 part of all is this right so you've
+00:12:18.880 heard all these things but weit there's
+00:12:20.240 more it's really a lot of these
+00:12:21.920 variations of but weight there's more
+00:12:23.399 you want to hook rehook rehook rehook
+00:12:25.120 rehook as long as you can that's the
+00:12:26.680 third trick and you can see I've done it
+00:12:28.240 three times in 45 seconds every time you
+00:12:30.279 hook and I'll show you in the edit the
+00:12:32.000 way that you use visuals to kind of hook
+00:12:34.160 them as well every time you hook it ads
+00:12:36.399 to retaining that viewer longer all
+00:12:39.079 right so now we're going to go to number
+00:12:40.720 four now number four is what I call
+00:12:42.880 clickbait now in order to make a video
+00:12:44.480 go viral you kind of need to add some
+00:12:47.000 dissension or some hidden phrases that
+00:12:49.760 will cause comments sadly the best way
+00:12:52.000 to get engagement is comments the best
+00:12:53.760 way to get comments is to cause
+00:12:55.680 dissension if you're 100% on one side or
+00:12:58.000 the other everyone's going to be like
+00:12:59.199 agree agree agree that's not going to
+00:13:00.639 drive dialogue if there's no dialogue in
+00:13:02.160 the comments the video will not spread
+00:13:03.839 now you may not want arguments in the
+00:13:05.560 comments I don't want arguments in the
+00:13:06.880 comments but I definitely am okay with
+00:13:08.760 people taking multiple sides of position
+00:13:10.959 if it makes sense what you can also do
+00:13:12.360 is hide certain words and phrases in the
+00:13:14.760 script which you know will drive
+00:13:16.720 comments and so I did that a couple
+00:13:18.639 times here the first one is I said first
+00:13:20.800 personal hydrogen reactor now the source
+00:13:22.639 material I saw and when I watched this
+00:13:24.959 guy's videos he said this is the first
+00:13:27.360 working personal hydrogen reactor so I
+00:13:29.320 just took that but I Knew by including
+00:13:31.279 it in that way first personal I knew
+00:13:33.639 people were going to be like there's no
+00:13:34.880 way that's impossible to create this is
+00:13:36.680 a lie this is faked I knew people were
+00:13:38.320 going to say that I purposely said it
+00:13:39.920 this way to drive those comments the
+00:13:41.519 second thing is I could have said this
+00:13:42.720 is Alex he's an engineer but I
+00:13:44.399 specifically put Russian I knew I knew
+00:13:46.360 putting Russian engineer would matter
+00:13:47.959 one because the US vers Russia thing and
+00:13:50.160 two because in Iron Man he has a lot of
+00:13:52.839 villain that are Russian engineers and I
+00:13:54.839 knew people would comment I didn't think
+00:13:56.199 it would be this crazy I didn't think it
+00:13:57.399 would go this viral but if you look at
+00:13:59.160 the comments across the platforms a lot
+00:14:00.839 of people were like he's the real Ivan
+00:14:02.720 Veno and the reason they did that is
+00:14:04.480 because I hammered the Russian point so
+00:14:06.560 that was a second thing I didn't have to
+00:14:07.639 put it in and I didn't really hurt me
+00:14:09.160 like I'm not being offensive but I did
+00:14:10.800 put it in on purpose early because I
+00:14:12.440 knew it would drive clickbait the third
+00:14:14.040 thing is calling him the real Tony Stark
+00:14:16.279 again this is something that he refers
+00:14:17.639 to himself as his followers refer to it
+00:14:19.519 in the comments but I knew including
+00:14:21.759 Tony Stark which is a common character a
+00:14:24.240 common person a common name that people
+00:14:26.120 know it creates something they can grab
+00:14:28.399 on to when I think about writing videos
+00:14:30.399 I think a lot about mountain climbing
+00:14:31.920 you need to give people holds to climb
+00:14:33.839 up if you try to climb a mountain that
+00:14:35.040 was completely smooth they can't grab on
+00:14:37.079 and lifts up so you you want to give
+00:14:38.639 them holds and celebrities brand names
+00:14:41.199 anything people can relate to is like a
+00:14:42.800 hold that they can pull themselves up on
+00:14:44.560 so that was the third thing the fourth
+00:14:45.759 thing is I said he had to invent a bunch
+00:14:47.959 of things which to me he did invent to
+00:14:50.320 him he did invent he said he invented
+00:14:52.160 all the source material I saw said he
+00:14:53.880 invented it but again I knew people in
+00:14:55.360 the comments were going to be like
+00:14:56.199 there's no way this Russian dude with a
+00:14:57.720 welding torch in his garage and Ed
+00:14:59.320 there's no way there's all these
+00:15:00.279 scientists I knew people were going to
+00:15:01.480 say that I was trying to cause those
+00:15:02.880 comments to come out and then the fifth
+00:15:04.480 thing is just like the one in the movie
+00:15:06.240 and so I used that because I wanted
+00:15:07.519 people to create that frame and I knew I
+00:15:09.560 could add visuals in to create that kind
+00:15:11.600 of like comparison everybody knows the
+00:15:13.320 movie nobody knows this guy if I say
+00:15:15.399 just like the movie it reminds them of
+00:15:17.160 the movie again another hold for them to
+00:15:19.560 climb up on so I don't always put this
+00:15:21.600 many things in there that will cause
+00:15:23.720 clickbait comments but I find that the
+00:15:26.040 more you do this without sacrificing
+00:15:28.000 your morals and your ethics in your
+00:15:29.399 position the better all right so the
+00:15:31.160 fifth thing and this is kind of
+00:15:32.360 something that's a little bit unique to
+00:15:34.120 me like it naturally comes to me but
+00:15:35.800 it's simplification so anytime in a
+00:15:37.880 video you can take a complex idea and
+00:15:40.240 simplify it down to like really really
+00:15:42.360 simple dumb terms it's so much easier
+00:15:44.440 for people to relate to and it's not
+00:15:46.040 about people being smart or dumb it's
+00:15:47.279 just it's so much easier to hear a
+00:15:48.800 simple concept and be like Wow versus
+00:15:51.199 hearing some complex jargon that you
+00:15:52.800 don't know and trying to fill in the
+00:15:54.199 gaps in real time it just makes it
+00:15:55.440 harder and so in this case in the purple
+00:15:57.639 I've highlighted a couple times where I
+00:15:59.519 tried to take what was complex and then
+00:16:01.680 simplify it down so I said the complex
+00:16:03.920 was a Pneumatic sensor system that links
+00:16:05.759 the suit's movement with his own so when
+00:16:07.600 he flexes it flexes that's a much you
+00:16:09.839 know when he flexes it flexes a much
+00:16:11.319 simpler way to say that and also I knew
+00:16:13.079 I had a visual where he was flexing and
+00:16:14.720 it was flexing so I knew that would
+00:16:15.839 parall well together the other one was
+00:16:17.279 when I said he also designed a plasma
+00:16:19.000 propulsion system to make the jet
+00:16:20.839 thrusters and Cutters actually work so
+00:16:23.120 nobody knows what plasma propulsion
+00:16:24.800 system means but when I said make the
+00:16:26.440 jet thrusters work and you see the jet
+00:16:28.199 thrusters working it's a simpler way to
+00:16:30.319 say it and if you have a pair Visual and
+00:16:32.560 you say it in a simple way that really
+00:16:34.120 helps people again add more holds for
+00:16:36.279 people to climb up the mountain with you
+00:16:38.000 all right and now the last thing and
+00:16:39.279 this is really critical is the last line
+00:16:41.519 the end line the last dab I call it of
+00:16:44.040 the script and that's in this orange
+00:16:45.680 color you really want to find a way to
+00:16:47.279 incorporate an interesting question or a
+00:16:49.519 joke or a reference at the end because
+00:16:52.120 humans are simple and their attention
+00:16:53.720 spans are super short they're just going
+00:16:55.360 to remember the last second or two of
+00:16:56.959 what you said you could do all that work
+00:16:58.519 and if you ask somebody a day later what
+00:17:00.680 they saw they'd be like I think I saw
+00:17:01.959 something about Iron Man but that's all
+00:17:03.519 I remember so sadly once you get them to
+00:17:05.880 the end nothing matters but the end and
+00:17:07.919 so at the end what I try to do is add a
+00:17:09.839 question or something relatable that
+00:17:11.959 will make them share and so in this case
+00:17:13.640 I knew like using a line for the movie
+00:17:15.319 would be cool if I could force it in and
+00:17:16.839 so there's this line where Tony Stark
+00:17:18.640 builds the suit in the cave and then
+00:17:20.559 they're trying to replicate it at Stark
+00:17:22.280 Industries and you know the engineer
+00:17:24.079 comes up to the villain it's like I
+00:17:25.240 can't do this like we have so many
+00:17:26.559 Engineers working on it's not working
+00:17:27.839 and then he yells back like Tony Stark
+00:17:29.640 did this in a cave with a box of scraps
+00:17:31.840 it's like a famous line from the movie
+00:17:33.280 and so I knew that this kind of looked
+00:17:35.080 like in the videos this guy was doing
+00:17:36.640 this with a box of scraps like in a dark
+00:17:38.320 cave so if I found a way to relate that
+00:17:40.160 to the movie and then show visually he
+00:17:42.120 was the same as Tony I knew that would
+00:17:44.120 be like an amazing last dab now the
+00:17:45.960 thing I underestimated was how many
+00:17:47.240 people would comment that line so so
+00:17:49.640 many people were like he did it in a
+00:17:51.000 cave with a box of crabs they just said
+00:17:52.320 it again like it was a joke that they
+00:17:53.640 were like in on the joke with me all
+00:17:55.120 those comments drove so much sharing so
+00:17:57.159 I actually underestimated how power
+00:17:58.840 powerful that would be but I recommend
+00:18:00.720 including something that's Punchy at the
+00:18:02.840 end that people can react to all right
+00:18:04.679 so just a recap it's one creating a
+00:18:06.840 curiosity Loop you got to have a loop
+00:18:08.840 that people actually want to go down two
+00:18:10.799 it's using Rhythm and sentence
+00:18:12.640 variability to create something that's
+00:18:14.440 pleasurable to listen to Three it's reh
+00:18:16.919 hooking hook then rehook then rehook
+00:18:19.320 then rehook continue hooking four it's
+00:18:21.520 using specific words you can call it
+00:18:23.120 clickbait if you want to drive comments
+00:18:25.600 around a memorable phrase or a person or
+00:18:28.799 brand name five it's simplification
+00:18:30.840 taking complex ideas and simplifying
+00:18:32.880 them in a way that people can grab on to
+00:18:34.799 and six it's using a last dab the end
+00:18:37.440 line something funny witty something
+00:18:39.400 people will remember that they'll want
+00:18:40.720 to share those are the six things I did
+00:18:42.200 in this video those will help you in
+00:18:43.760 every video all right let's go on to
+00:18:45.240 part three which is the
+00:18:47.919 edit all right we're in the edit we're
+00:18:49.840 in Premiere Pro now the idea is a banger
+00:18:51.880 and the script is great you still need
+00:18:53.799 the edit you still need the visual
+00:18:55.320 packaging you need some hacks and tricks
+00:18:57.440 to make sure that visually it works it
+00:18:59.559 can still work and do pretty well with
+00:19:01.679 just the idea and if you just point and
+00:19:03.360 shoot with the phone but if you really
+00:19:04.440 want to take off and go super viral the
+00:19:06.480 visual packaging in the edit is the
+00:19:07.799 third piece so what I want to do is go
+00:19:09.720 through eight different things in the
+00:19:11.440 edit that I did specifically to try to
+00:19:13.760 engineer this virality now you can't
+00:19:15.960 guarantee it but you can try to do these
+00:19:17.640 things that give it the best chance to
+00:19:19.360 go viral so we're going to walk through
+00:19:20.520 that right now all right so step number
+00:19:22.000 one before you start the edit what you
+00:19:23.520 really want is what I call a key visual
+00:19:25.919 so in order to make videos you got to
+00:19:27.240 have some b-roll some video right if
+00:19:29.039 it's just you on the screen it gets
+00:19:30.159 boring you need some graphics some
+00:19:31.559 visual something to show to illustrate
+00:19:33.520 your point now what you want is a key
+00:19:35.200 visual which is some other video from
+00:19:37.520 someone else some other company some
+00:19:39.200 demo somebody else did it you're going
+00:19:40.919 to use that key visual as your b-roll
+00:19:43.240 now you may be watching this and think
+00:19:44.600 oh that's unfair like other people put a
+00:19:46.440 lot of time look the thing is with the
+00:19:48.120 internet everything is a remix on each
+00:19:49.640 other so as far as I'm concerned if I
+00:19:51.360 put something out somebody else can use
+00:19:52.760 it if somebody else puts something out I
+00:19:54.200 can use it I try to credit as best I can
+00:19:56.240 I try to tag my whole goal is to get
+00:19:58.000 millions of eyes sent through to the
+00:20:00.120 original Source material so people that
+00:20:01.760 are in the comments complaining that
+00:20:03.039 people borrow stuff so many people have
+00:20:04.480 ripped my videos and reposted it that's
+00:20:06.080 how the internet works so the point is
+00:20:07.960 you want a key visual that helps
+00:20:09.520 illustrate your point and if possible
+00:20:11.320 you want to tag and send all that
+00:20:12.679 traffic back to those people in this
+00:20:14.400 case the key visual I had which is why I
+00:20:16.559 made the video was this guy Alex the
+00:20:19.280 Russian engineer that made the Iron Man
+00:20:20.880 suit he has a YouTube channel with over
+00:20:23.120 a million subscribers and what he does
+00:20:24.840 is he uploads videos showing how he
+00:20:27.000 makes all these different things and so
+00:20:28.679 so if you look on the timeline this is
+00:20:30.159 just one of the videos right this is
+00:20:31.640 just one of the videos of him going
+00:20:33.520 through and you know he's a great job of
+00:20:35.559 filming this and so I knew between this
+00:20:37.799 and the source video we saw on Twitter
+00:20:39.520 we had so much footage that we could use
+00:20:41.440 to visualize our point but I really
+00:20:43.039 recommend that if you don't have a key
+00:20:44.919 Visual and you're not good at animating
+00:20:46.559 from scratch you're going to have a hard
+00:20:48.039 time making a video that's compelling
+00:20:49.679 because what are you going to show to
+00:20:51.360 illustrate your point right picture's
+00:20:53.000 worth a th000 words video is worth a
+00:20:54.360 th000 pictures you want Source video to
+00:20:56.559 show so that's Point number one is you
+00:20:58.000 really want to keep it visual now I'm
+00:20:59.159 going to zoom in here Point number two
+00:21:00.679 is the visual hook this is what people
+00:21:02.400 do not talk about enough the written
+00:21:04.000 Hook is not enough I'll say it again the
+00:21:05.440 written Hook is not enough what you're
+00:21:07.640 showing on the screen matters more than
+00:21:10.039 what you say in the hook why is this
+00:21:12.159 people see before they hear they can
+00:21:14.240 digest what they're seeing and process
+00:21:16.159 it faster via their eyes than they can
+00:21:17.880 their ears and so at the end of the day
+00:21:20.000 what you're showing matters so so much
+00:21:22.480 so I want to show you in the timeline
+00:21:24.200 how I think about hooks so I'm going to
+00:21:26.200 just play this check this out this guy's
+00:21:27.679 building a
+00:21:29.480 suit in his and again this is processing
+00:21:31.760 at quarter speed so it's going to seem a
+00:21:33.600 little blurry but it is very smooth it's
+00:21:35.480 just the some of these files are too big
+00:21:37.760 to play full speed but what I want to
+00:21:39.960 show you is there's a few things I did
+00:21:41.880 in this visual hook specifically to hold
+00:21:44.559 retention the first thing is you want
+00:21:46.320 the visual to complement the Curiosity
+00:21:48.840 Loop so in the Curiosity Loop in the
+00:21:50.600 script what I said is this guy's
+00:21:52.080 building a real Iron Man suit so just
+00:21:54.440 watch the visuals that play check this
+00:21:56.480 out right here you see the Iron Man
+00:21:58.960 helmet then you see an Iron Man suit
+00:22:01.720 with an arrow pointed to the Iron Man
+00:22:03.480 suit that helps direct your eyes
+00:22:04.919 directly to what I'm talking
+00:22:06.559 about then you see the Iron Man suit
+00:22:09.159 helmet
+00:22:10.279 on then you see him shooting the Iron
+00:22:12.640 Man suit and all this is in the garage
+00:22:14.880 right so check this out this guy's
+00:22:16.279 building a real Iron Man suit in his
+00:22:17.760 garage I did my best with the clips to
+00:22:20.159 grab your attention visually so it
+00:22:21.799 connected so that's step number one is
+00:22:23.120 you want the the visual b-roll like the
+00:22:25.360 graphics or the videos you're using to
+00:22:27.039 match what you're saying these are the
+00:22:29.000 five videos I use that's that's step
+00:22:30.440 number one in the visual hook step
+00:22:31.679 number two and this is the most
+00:22:33.440 important thing the most important thing
+00:22:35.400 you got to have text on the screen I'm
+00:22:37.279 not talking about captions I'm talking
+00:22:38.760 about title text that people can read
+00:22:41.320 people will read the text 10 times out
+00:22:43.120 of 10 if you don't believe me open my
+00:22:44.880 videos and tell me what the first thing
+00:22:46.200 is you watch it's always the text
+00:22:47.880 sliding across I didn't used to do this
+00:22:49.640 I was able to go viral luckily without
+00:22:51.279 doing this since I started doing this I
+00:22:52.640 go viral every single time this is the
+00:22:54.159 hack I shouldn't be sharing but it's the
+00:22:55.559 truth add text to the video you'll go
+00:22:57.520 more viral and so here I said Russian
+00:22:59.400 engineer builds Iron Man suit now do not
+00:23:01.640 copy my style because people will see it
+00:23:03.720 but you can't not copy putting text on
+00:23:06.080 right you put text on the screen you put
+00:23:07.960 background color behind it that's all
+00:23:09.400 you have to do I like to put things that
+00:23:11.440 match what I'm saying but aren't exactly
+00:23:13.679 the same so I knew Russian engineer to
+00:23:15.960 our script point was going to be viral
+00:23:17.559 so I put Russian engineer first word you
+00:23:19.400 read is Russian I wanted you to think
+00:23:20.919 it's Russian I wanted you to think it's
+00:23:22.200 cool look at it see him looking Russian
+00:23:24.480 immediately want to comment oh no the US
+00:23:26.279 is in trouble that's what I was trying
+00:23:27.559 to create in this Cyclone of a hook so
+00:23:29.919 step number two is you have to include
+00:23:31.840 text on the screen to tell people what
+00:23:33.720 the video is about 50% of people watch
+00:23:35.600 it without sound so if you know if
+00:23:37.679 that's not enough of an indicator
+00:23:39.240 hopefully what I'm saying will put you
+00:23:40.520 over all right tip number three on the
+00:23:42.159 edit is music now you can see you don't
+00:23:44.760 have to be a premere pro expert to
+00:23:46.799 understand how this works everything
+00:23:48.039 below this main line here is audio
+00:23:50.279 everything above is video and so this
+00:23:52.200 first track this A1 track this is my
+00:23:54.720 spoken audio there's two different
+00:23:56.240 colors just because my editor likes to
+00:23:58.039 split whenever there's split screen it's
+00:23:59.600 green and then whenever it's full screen
+00:24:00.919 it's red you can see so there's two
+00:24:02.679 different colors of the audio but
+00:24:03.600 everything on this first track is my
+00:24:04.840 spoken word the next track is the Main
+00:24:06.320 Music of the video now you're not going
+00:24:07.679 to be able to hear it because I'm not
+00:24:08.880 playing the audio through as I play this
+00:24:10.520 back but we're going to play clips from
+00:24:12.720 the video as I'm talking about it so you
+00:24:14.400 can understand what I'm saying in this
+00:24:15.760 case you want to use music that
+00:24:17.840 complement the video so I thought it'd
+00:24:20.000 be kind of cool to use like that Iron
+00:24:21.440 Man song The Black Sabbath Iron Man song
+00:24:23.200 or something of that vein so I went on
+00:24:25.039 YouTube I searched what are the songs in
+00:24:26.600 Iron Man it's all this ACDC Black
+00:24:28.840 Sabbath so I found one that worked and
+00:24:31.399 then what I did is I dropped the volume
+00:24:33.520 a ton and I put a low pass on the song
+00:24:37.360 Why do you want to put a low pass a low
+00:24:39.159 pass allows the low frequencies to come
+00:24:41.799 through but the high frequencies it cuts
+00:24:43.919 out why do you want to do this my voice
+00:24:45.760 is a higher frequency so I don't want
+00:24:47.880 the vocals in the song if there are any
+00:24:49.919 or even the instruments in the song to
+00:24:51.840 muddy up the clarity of my voice so I
+00:24:54.039 cut the high frequencies and I just have
+00:24:55.679 the low frequencies come through that's
+00:24:57.480 what gives it that under water kind of
+00:24:59.080 muffled tone but all you need is a
+00:25:00.760 little bit of that music in the
+00:25:01.960 background for you to kind of get the
+00:25:03.279 vibe so number three is you want to pick
+00:25:04.720 music that matches the vibe of the video
+00:25:07.039 this is a little bit more art than
+00:25:08.399 science I'm going to have a community
+00:25:10.000 and a membership that helps explain
+00:25:11.880 these types of things oneon-one like
+00:25:13.399 I'll take somebody's video and explain
+00:25:14.919 it which music or which song I would use
+00:25:16.880 there's more to come in that check the
+00:25:18.039 description but at the end of the day
+00:25:19.600 this is a little bit more art than
+00:25:20.679 science but you want to make sure you
+00:25:21.679 pick a song that matches the video now
+00:25:23.760 number four is the hook now we already
+00:25:25.919 talked about the main hook and using the
+00:25:28.080 VIS visual hook I want to talk about the
+00:25:29.559 hooks and the re hooks throughout and
+00:25:31.360 kind of what I do visually in the edit
+00:25:33.480 so again because you can't hear the
+00:25:34.919 sound we're going to play this little
+00:25:36.520 Snippets of this as I'm talking about it
+00:25:38.240 we'll I'll say it we'll cut it we'll
+00:25:39.799 show you what I'm talking about and then
+00:25:41.240 flip back but what I do whenever there's
+00:25:43.679 a a hook moment so kind of like a butt
+00:25:46.039 weight moment what I do is I use a riser
+00:25:49.600 sound effect so I'm going to show you
+00:25:51.200 here frame by frame I use a riser sound
+00:25:54.159 effect which creates
+00:25:55.880 that and then right when it hits I
+00:25:58.840 switch and I do a three two or three key
+00:26:02.080 frame huge jump in right so you can see
+00:26:05.080 the scale here in terms of you'll watch
+00:26:07.399 this Zooms in right this is the scale
+00:26:09.039 effect right now it's at 178 over the
+00:26:11.240 course of in this case we did five
+00:26:13.039 frames or six frames it goes from 178 to
+00:26:15.320 190 so the combination of the Riser
+00:26:17.840 effect with the rapid scale increase
+00:26:20.799 creates this effect which kind of holds
+00:26:23.520 your attention I'll play it in real time
+00:26:24.840 and then we're going to show you with
+00:26:26.039 the sound as well new things the reactor
+00:26:28.120 is one but he also built that it kind of
+00:26:31.120 like just grows right in your face when
+00:26:33.120 you do that and you switch from split to
+00:26:35.039 full and you use the Riser it it really
+00:26:37.240 creates this important moment that kind
+00:26:39.120 of like stops the momentum I also stop
+00:26:40.919 the music right at this point as well so
+00:26:42.559 it's this Crescendo moment and I do that
+00:26:44.480 you can see I do that throughout the
+00:26:45.799 video so I've got one here at the
+00:26:47.880 beginning I've got one here in the
+00:26:49.880 middle and then I've got one here
+00:26:52.120 actually I think I just did two cuz
+00:26:54.279 sometimes if you want to keep the song
+00:26:55.520 going you don't want to create that
+00:26:56.960 Riser shortcut effect or that Riser
+00:26:58.880 stoppage effect so yeah it varies but in
+00:27:01.679 this case I did two of those and if you
+00:27:03.360 watch the video there's two abrupt
+00:27:05.200 stopping points which kind of rehook you
+00:27:06.679 back in so that's step four that's how
+00:27:08.159 you visually adjust hooks in the edit to
+00:27:10.919 kind of accentuate the moment all right
+00:27:12.559 step five very simple is use arrows so
+00:27:14.960 if you look throughout the edit I like
+00:27:16.679 to use arrows to point to what I want
+00:27:18.960 you to look at it sounds super simple
+00:27:21.480 but people's eyes will go wherever you
+00:27:23.520 direct so anytime there's a visual on
+00:27:25.640 the screen that represents the thing I
+00:27:27.679 want you to look at because it will
+00:27:29.080 bring home the point I use an arrow see
+00:27:31.159 here's another arrow I'm talking about
+00:27:32.399 the personal hydrogen reactor I'm using
+00:27:34.240 the arrow to point to it I use this
+00:27:36.000 thing called Premier composer if you go
+00:27:37.799 to MRH horse.com m i s t r horse.com I
+00:27:40.919 don't have an affiliate link or anything
+00:27:42.279 the greatest pack for arrows and lines
+00:27:44.919 and little like preset animations that
+00:27:47.240 you can use MRH horse.com so these
+00:27:48.880 arrows are from there you can like
+00:27:50.080 adjust anything you want the speed the
+00:27:51.840 bounce the color the size whatever you
+00:27:53.679 want so I use arrows throughout not too
+00:27:55.559 many but you know a couple usually at
+00:27:57.799 the beginning step six is the caption so
+00:27:59.559 if you watch my videos I use two types
+00:28:01.720 of captions on screen the first is these
+00:28:04.120 kind of yellow captions with the red
+00:28:05.720 background I use this font called Roa
+00:28:07.399 Roca again I wouldn't recommend copying
+00:28:09.519 it just cuz it's going to look the same
+00:28:10.519 as me and people call it out you can if
+00:28:12.039 you want though it's fine you could use
+00:28:13.480 helvetica you could use aerial whatever
+00:28:14.880 you want I use Roa heavy and yeah I
+00:28:17.200 think Roa heavy let's check yeah Roka
+00:28:19.039 one heavy and that's a free font and so
+00:28:21.559 I like this size 48 font I like it this
+00:28:23.880 yellow with a little bit of Red Shadow
+00:28:25.960 here's my settings if you want to copy
+00:28:27.279 it I like this cuz because it pops out
+00:28:28.760 it looks a little different everybody
+00:28:29.840 uses those kind of bold captions and so
+00:28:31.679 I use a combination of these with Bolder
+00:28:34.600 text when I'm trying to emphasize
+00:28:36.159 something so let's see a moment where
+00:28:39.320 I'm doing the boulder text would be like
+00:28:41.880 well here I included kind of Boulder
+00:28:43.240 text on the on the above also if you
+00:28:45.039 want this effect by maximize uses this a
+00:28:47.240 lot it's just go uh put the image down
+00:28:49.840 and then for under opacity go to blend
+00:28:52.799 mode and go to difference difference
+00:28:54.480 will basically like invert whatever
+00:28:56.200 color is behind the letter it will
+00:28:57.760 invert it so that it's one way to kind
+00:28:59.559 of like have text pop that's not what
+00:29:01.120 I'm talking about what I'm talking about
+00:29:02.600 is when I have just white text on the
+00:29:04.679 screen so I got to find like right here
+00:29:06.840 so sometimes when I have full screen
+00:29:08.679 where there's no b-roll I try to hold
+00:29:10.240 somebody's attention by including bigger
+00:29:12.000 words with like a more pronounced font
+00:29:13.880 so in this case but he also built this
+00:29:16.519 could have used yellow but I just used
+00:29:18.039 white to kind of vary the eye level
+00:29:19.760 sometimes if it's too stale people will
+00:29:21.320 churn so you kind of want to mix I like
+00:29:23.320 to mix between the yellow captions and
+00:29:25.200 the white um but that's that's like a
+00:29:26.960 base thing but you want to make sure
+00:29:28.159 have captions because 50% of people like
+00:29:29.840 I said aren't watching this with sound
+00:29:31.760 so it's really important that you have
+00:29:32.960 those all right number seven and we're
+00:29:34.240 almost to the end number seven is pacing
+00:29:36.080 so if you listen to my video it's moving
+00:29:38.320 pretty quick like when you watch this
+00:29:39.880 it's like bang bang bang bang it's not
+00:29:41.559 too fast where it's like overwhelming
+00:29:43.159 but it's also there's no dead space is
+00:29:44.640 not too slow like I cut a lot of the
+00:29:46.799 extra dead frames between the sentences
+00:29:48.679 because I don't want people to linger I
+00:29:50.240 want it to be really really Crisp And if
+00:29:51.919 you a way to check this is if you close
+00:29:53.600 your eyes and you listen to the video is
+00:29:55.720 it moving at a pace where you get bored
+00:29:57.519 or is it moving M at a pace that's fast
+00:29:59.000 enough to keep you entertained if not
+00:30:00.640 you need to cut more of the Dead Space
+00:30:02.159 cut more of the breaths in between or
+00:30:04.240 like if you're lingering on a word you
+00:30:05.519 need to cut that so step seven is you
+00:30:06.919 want to make sure the pacing is tight
+00:30:08.279 and you can tell how finally I cut it
+00:30:10.039 because look at all the cut lines
+00:30:11.559 between these clips this was one take I
+00:30:14.000 look at the script and I look up and I
+00:30:15.519 go one line at a time obviously I cut
+00:30:17.039 that space but some of these are four or
+00:30:18.880 five cuts within a sentence I'm just
+00:30:20.279 trying to like really really dial the
+00:30:21.679 pacing in as fast as I can that
+00:30:23.480 complement the BPM of the music all
+00:30:25.240 right in Step eight I don't actually do
+00:30:26.760 this all the time I accidentally did it
+00:30:28.279 but I do think this did help is you want
+00:30:30.120 to create a loop so I try not to do this
+00:30:32.559 because I'm not really trying to go for
+00:30:34.000 two times views like if you watch my
+00:30:35.600 video once and maybe you watch a little
+00:30:36.919 bit of the next run through fine but
+00:30:39.000 nobody's watching my videos multiple
+00:30:40.360 times unless I say something they really
+00:30:41.840 want to save but if you engineer a loop
+00:30:43.760 where the end frame really Loops back
+00:30:45.760 nicely with the beginning and people
+00:30:46.799 kind of lose themsel in where they are
+00:30:48.039 in the video you can kind of like juice
+00:30:49.640 out multiple views which help catalyze
+00:30:51.960 the algorithm so here this is the first
+00:30:53.799 line you see this helmet is being held
+00:30:55.600 in the upper half of the of the uh frame
+00:30:58.120 now look at the very last frame the
+00:30:59.639 helmet is kind of in the same spot so a
+00:31:01.679 lot of people commented actually wow
+00:31:03.120 nice Loop and the loop actually drove
+00:31:05.679 viral comments which helped spur the
+00:31:07.600 growth so that was an accident actually
+00:31:09.120 I didn't try to do that but if you do
+00:31:11.080 engineer a loop that will help you too
+00:31:13.200 all right so that's all we got for this
+00:31:14.399 video that was a a master class honestly
+00:31:16.200 a super long video if you're still with
+00:31:17.679 me we went through the idea the script
+00:31:19.880 the edit that's the full enchilada with
+00:31:21.519 short form video Everything I did for
+00:31:23.480 this video 46 million views 4 hours
+00:31:25.720 worth of work 8 Days 20 6,000 followers
+00:31:29.600 this is what you want right so it's not
+00:31:31.720 about this exact video you don't need to
+00:31:34.039 make video about Marvel Superheroes it's
+00:31:35.880 not about the topic it's about
+00:31:37.279 extracting the lessons when you do get
+00:31:39.519 an outlier so you can reverse engineer
+00:31:41.559 them and then use them in the next video
+00:31:43.799 that's the fastest way that I've figured
+00:31:45.399 out how to learn and grow so if you like
+00:31:47.559 this video comment down below let me
+00:31:48.960 know if I should make more like this
+00:31:50.639 these are super in-depth I don't always
+00:31:52.120 do these but when I seem to audit my
+00:31:53.919 video process and extract the learnings
+00:31:55.559 people do seem to like it if you like
+00:31:57.039 the way I think about this stuff either
+00:31:58.960 the way I break down content or kind of
+00:32:00.880 the way I identify the trends and kind
+00:32:02.679 of simplify them I have a newsletter
+00:32:04.279 called content Department it's at
+00:32:06.120 content. game the URL it's free and
+00:32:08.399 every week I do this where I take a
+00:32:09.919 viral piece of content either mine or
+00:32:11.399 somebody else's or some Trend some like
+00:32:13.880 Edge that I'm finding in content and I
+00:32:15.760 just share it back I've got 10,000
+00:32:17.159 people reading that you should be
+00:32:18.279 reading that if you're a Creator or a
+00:32:19.679 marketer it would be good for you to be
+00:32:21.240 on that and read it because the amount
+00:32:22.600 of learnings that I'm sharing it will
+00:32:24.120 level you up so check that out if you
+00:32:25.760 want if not no worries and we'll see you
+00:32:27.639 guys on the next video peace
+
+
+# tactiq.io free youtube transcript
+# How to Edit VIRAL Short-Form Videos (Step by Step)
+# https://www.youtube.com/watch/YmeqSYQi7g0
+
+00:00:00.080 I've gone viral over 50 times and I
+00:00:02.639 edited every single one of those videos
+00:00:04.720 myself so in this video I'm going to
+00:00:06.279 show you the 8020 of short form video
+00:00:08.599 editing these are the beginner tricks
+00:00:10.040 that honestly are all you need to make
+00:00:11.719 your videos perform well and by the way
+00:00:13.320 I use Premiere Pro but if you use cap
+00:00:15.080 cut Da Vinci resolve or final cut these
+00:00:16.960 will all work on there you just have to
+00:00:18.400 figure out how to do them all right
+00:00:19.760 let's dive into Premiere Pro I'm going
+00:00:21.240 to show you exactly the techniques that
+00:00:23.080 I use now if you follow me for a while
+00:00:24.599 you're going to be surprised at how
+00:00:25.920 simple this really seems so we're
+00:00:27.720 starting out in this video that I made
+00:00:29.359 about Apple AI it got 870,000 views on
+00:00:32.399 Instagram 200 something thousand on Tik
+00:00:34.399 Tok so this got a million collectively
+00:00:36.160 we'll show this one and then there's
+00:00:37.239 another video on the Tesla phone that I
+00:00:39.440 made as well between those two I'll show
+00:00:41.000 you all the techniques that I typically
+00:00:42.640 use now if we're in Premiere Pro and
+00:00:44.760 this looks crazy I'm going to zoom out
+00:00:46.399 this is the full timeline if this looks
+00:00:47.960 crazy to you I actually made a video in
+00:00:50.120 wavy world my free content Community
+00:00:52.640 showing the basics of how I use Premiere
+00:00:54.920 Pro so like chopping and how I think
+00:00:57.079 about the timing of the video and like
+00:00:58.760 my favorite keyboard short short cuts so
+00:01:00.640 I'm not going to go over those in this
+00:01:01.719 video if you want to learn about those
+00:01:03.359 there's a free invite to Wavy world in
+00:01:04.839 the description so I'm going to assume
+00:01:06.240 that you guys have watched that and you
+00:01:07.880 understand what I'm talking about so
+00:01:08.759 let's go through this first thing I'm
+00:01:10.040 actually going to play the video for you
+00:01:12.240 the full apple video so that you can get
+00:01:13.720 a sense for what I'm talking about watch
+00:01:14.920 the things that are happening on the
+00:01:15.960 screen the motion of the text the way
+00:01:17.840 the clips are moving that's going to
+00:01:19.320 kind of be the Bedrock for what I talk
+00:01:20.560 about so we'll play that now Apple just
+00:01:22.479 debuted the future of iPhone Apple
+00:01:24.880 intelligence it's AI but it's invisible
+00:01:27.840 let me explain imagine you're picking up
+00:01:29.400 a friend from the airport you can
+00:01:30.799 literally just speak to your phone
+00:01:32.159 when's Lauren going to land Siri will
+00:01:33.759 automatically check messages to find her
+00:01:35.560 flight take the flight number check
+00:01:37.000 flight tracker open maps calculate the
+00:01:38.880 distance and just tell you leave the
+00:01:40.640 house at 8:22 all automatically zero
+00:01:42.960 work for you or imagine you're taking a
+00:01:44.600 video but you're not a pro videographer
+00:01:46.560 instead of struggling with the settings
+00:01:47.960 or missing the moment you can just say
+00:01:49.759 make the light Trails look cooler or add
+00:01:51.799 a cinematic filter and it will just do
+00:01:53.640 it for you settings apps information
+00:01:56.320 they're all connected and enhanced with
+00:01:58.360 this invisible AI layer book an Uber
+00:02:00.719 follow up with this person schedule a
+00:02:02.280 meeting with that person send a birthday
+00:02:03.920 gift these are all the little tasks that
+00:02:05.880 just suck up five or 10 minutes of our
+00:02:07.719 day AI is going to decrease your time
+00:02:09.479 spent on life admin and Logistics now
+00:02:11.959 there's tons of AI tools out there and
+00:02:13.440 apple was definitely slow to arrive but
+00:02:15.760 the difference between apple doing this
+00:02:17.239 and everyone else is that you're already
+00:02:18.920 on your iPhone all day long you're going
+00:02:20.720 to use the same device and same apps you
+00:02:22.640 already love but the invisible AI layer
+00:02:24.720 will make all the small things so much
+00:02:26.879 more automatic this will start rolling
+00:02:28.519 out with iOS 18 in the summer and I'll
+00:02:30.879 keep you posted on exactly how I'm going
+00:02:32.519 to use apple intelligence to make my
+00:02:34.400 life easier all right so we're back so
+00:02:36.280 now I'm going to go through each of
+00:02:37.480 those motion elements and I'm going to
+00:02:38.920 show you exactly how to make them so
+00:02:41.440 let's start from the beginning we're
+00:02:42.440 going to play and the first thing you
+00:02:43.840 notice this future of iPhone text slides
+00:02:46.879 in so like I said you're going to be
+00:02:48.560 surprised at how easy this actually is
+00:02:50.840 now most of my animation or effects in
+00:02:53.560 premiere come from this motion Tab and
+00:02:56.040 this is like the most basic fundamental
+00:02:57.840 thing in Premiere so what I want to show
+00:02:59.040 you is how it works works the whole
+00:03:00.760 system of Premiere and really any video
+00:03:02.680 editor is based on key frames so key
+00:03:05.480 frames are these diamonds so all
+00:03:07.560 keyframe is is you're picking a point at
+00:03:09.920 the beginning and a point at the end and
+00:03:12.120 that doesn't have to be the absolute
+00:03:13.080 beginning or absolute end but you're
+00:03:14.000 picking two points where you want
+00:03:15.319 something to change between 0.1 and 0 2
+00:03:17.920 and between that time the change will
+00:03:19.640 happen so position is the first one this
+00:03:22.480 is all I have active you can see these
+00:03:24.159 stopwatches on the left that's actually
+00:03:25.640 how you turn them on so the stopwatch is
+00:03:27.440 turning them on and the diamond right
+00:03:29.040 here the ad remove key frame Diamond
+00:03:31.040 that's how you add or remove a key frame
+00:03:33.040 so position is turned on so what does
+00:03:34.519 this mean the left number of position is
+00:03:36.680 moving left and right on the screen the
+00:03:39.159 right number is moving up and down so
+00:03:41.439 what's actually happening here is if you
+00:03:43.400 go back to the beginning of this clip
+00:03:44.599 you'll see the future of iPhone text is
+00:03:46.120 gone so I have a key frame I'll delete
+00:03:48.120 this key frame so now it's on the screen
+00:03:50.280 to make the key frame I press the
+00:03:51.599 diamond and I go to the left right and I
+00:03:54.400 move this I click on it and I just drag
+00:03:56.480 it to the right you can like manually
+00:03:57.760 enter the the number if you want or you
+00:03:59.879 can just move it to the right now it's
+00:04:01.159 gone so what's happening is I want the
+00:04:03.400 text to start off screen and then over
+00:04:06.319 time of the clip I want the text to come
+00:04:08.360 on screen in the middle so this key
+00:04:10.400 frame we'll delete this now right now
+00:04:11.959 it's still off screen let's say this is
+00:04:13.360 where I want it to end I just add a
+00:04:15.239 second key frame and I bring it on now I
+00:04:18.279 know the middle is 540 so I'm just going
+00:04:19.839 to type in 540 but you can drag it
+00:04:21.680 wherever you want and there you go so
+00:04:24.680 I'm going to play this it's going to go
+00:04:26.080 from off to on now what you'll notice is
+00:04:31.199 usually this happens in a linear fashion
+00:04:34.400 so the movement is basically just
+00:04:38.000 straight across I'm going to delete this
+00:04:39.479 and do it
+00:04:40.880 again let's say we want this to come
+00:04:43.240 across add the key frame 540 there we go
+00:04:47.160 this is going to be a straight linear
+00:04:48.919 animation by linear I mean every every
+00:04:52.120 frame has an equal amount the distance
+00:04:54.120 is
+00:04:54.919 moving now what happens when it's linear
+00:04:57.039 as you'll notice it comes in fine but if
+00:04:59.479 you you want to really Spruce it up what
+00:05:01.160 I like to do is add a it starts out
+00:05:03.400 quick and then ends up slow it creates
+00:05:05.120 this like subtle like really nice smooth
+00:05:07.919 movement and so the way you do that is
+00:05:09.800 you just hit this arrow to the left of
+00:05:11.320 the stopwatch to drop down and this
+00:05:13.320 creates the kind of like Arc so you just
+00:05:16.120 press on the End Key frame and then
+00:05:17.600 these are both handles and so I like to
+00:05:19.680 move this I like to move from the right
+00:05:21.720 and put the the the mound of the handle
+00:05:23.960 closer to the first key frame so this
+00:05:25.800 means it will go fast and then it will
+00:05:28.319 slowly Tri trickle in so watch Fast and
+00:05:32.440 then it slowly trickles in I tend to
+00:05:34.160 like that motion the best so the first
+00:05:36.639 kind of Animation or effect that I use
+00:05:39.240 is this position I will go up down I'll
+00:05:41.800 go right left I'll go long so this is
+00:05:45.039 kind of a long lead in so this is all
+00:05:47.080 many frames I'll go short so let's say I
+00:05:49.199 wanted to make this really short I would
+00:05:50.560 drag the end point closer and now it's
+00:05:53.280 really short you see how fast that was
+00:05:54.840 we'll go again so right now it's off the
+00:05:56.319 screen see how fast that was it depends
+00:05:58.720 on how quick the actual sentence you're
+00:06:00.639 saying I tend to like it being long and
+00:06:02.800 coming from the right to the left slow
+00:06:05.160 starting as a fast acceleration and
+00:06:07.199 ending with slow acceleration that's
+00:06:08.440 what I like personally but you can do it
+00:06:10.400 however you want so you're going to be
+00:06:12.280 surprised how simple this is this whole
+00:06:13.840 key frame system is all you need to do
+00:06:15.919 and the the actual properties that I use
+00:06:18.560 most are position scale sometimes I'll
+00:06:21.039 use rotation very rarely opacity which
+00:06:23.400 means right now it's at 100 I'll just
+00:06:25.520 show you let's say that I wanted to use
+00:06:27.960 scale I'm going to get rid of this now
+00:06:29.919 so this is this is holding on the screen
+00:06:31.919 so scale would be if I want the size of
+00:06:34.360 the text to change over time so I'm
+00:06:36.680 going to press the stopwatch to activate
+00:06:38.360 that places a key frame let's say I want
+00:06:40.160 the scale to start smaller so we'll go
+00:06:41.639 to nine see how it got smaller and then
+00:06:43.880 I want the scale to increase to what it
+00:06:45.840 was at which was 12 so I'm going to
+00:06:47.360 scroll over I'm going to add a second
+00:06:48.639 key frame and then I'm going to increase
+00:06:49.919 to 12 now size size I don't mess with
+00:06:53.199 this it works differently size I just do
+00:06:54.720 linearly but watch what Watch What
+00:06:56.440 Happens now play this at the
+00:06:58.520 beginning so it's like a uniform scale
+00:07:01.879 so we've got position which is motion
+00:07:03.599 change we have scale which is I guess
+00:07:06.039 also motion change but bigger smaller
+00:07:07.800 and then let's go down to opacity now
+00:07:10.160 opacity works in the same way so let's
+00:07:12.240 say I for whatever reason I wanted the
+00:07:14.240 clip to start fully there but then I
+00:07:17.720 wanted it to disappear so I'm going to
+00:07:19.400 go I'm going to add a second key frame
+00:07:21.280 zero opacity means there's no solid so
+00:07:25.720 watch what happens as it's getting
+00:07:27.479 bigger it's going away boom it's
+00:07:29.199 invisible that was actually kind of cool
+00:07:30.639 right because the the phone zoomed in
+00:07:32.560 right as it went away so that would have
+00:07:34.240 been an interesting little effect to add
+00:07:36.360 now when I'm making these videos what
+00:07:37.840 I'm looking for is are there moments
+00:07:39.680 where I can add words with some motion
+00:07:42.520 to kind of accentuate my point
+00:07:44.520 accentuate the music accentuate the
+00:07:46.520 visual that's what I'm looking for so
+00:07:48.000 the three big ones that I use are
+00:07:49.680 position scale and opacity now I'm going
+00:07:51.759 to show you a few others but let's keep
+00:07:53.360 going with the with the actual
+00:07:55.400 video so that text happened now this
+00:07:58.479 next one this is an arrow so for arrows
+00:08:01.319 I actually use this thing called MRH
+00:08:03.479 horse.com it's a it's called Premier
+00:08:06.879 composer so I'll go up to window I go to
+00:08:10.080 extensions and I have this thing called
+00:08:11.599 Premiere composer there's a free version
+00:08:13.680 that's really generous in terms of what
+00:08:15.479 they have in there but there are all
+00:08:16.879 these different types of animations I
+00:08:18.720 find this way easier like so I don't
+00:08:20.120 have to animate this Arrow kind of
+00:08:21.720 pulsing in and out all I have to do is
+00:08:23.280 go to Premier composer I press Arrow
+00:08:25.639 there's all these different types of
+00:08:26.720 arrows I typically scroll down and go to
+00:08:29.120 this one which is like it moves forward
+00:08:30.720 and backward you press you import it
+00:08:33.039 into your file really easily once it's
+00:08:34.640 imported you can see on the right side
+00:08:36.039 here you can change the distance of
+00:08:37.919 travel the color the tail length the
+00:08:39.760 tail thickness everything about the
+00:08:40.919 arrow you can change here so I like to
+00:08:42.799 use arrows to draw your visual attention
+00:08:44.959 to what I want you to look at so in this
+00:08:46.480 case I said the word Apple intelligence
+00:08:48.480 and I wanted you to look at that word so
+00:08:50.320 that's why I Ed an arrow I didn't have
+00:08:51.720 to do any of the animation by hand see
+00:08:53.399 how that arrow is kind of moving that's
+00:08:54.959 all embedded in the Premier composer so
+00:08:57.160 I find that really helpful the other
+00:08:58.519 thing that you'll notice is happening
+00:08:59.600 here is this apple intelligence clip is
+00:09:01.640 getting subtly bigger so if I go to this
+00:09:04.040 clip right here you'll notice uh there's
+00:09:06.519 key frames on scale so this goes from 67
+00:09:09.920 all the way up to 72 now you don't see
+00:09:12.360 the first key frame because this clip
+00:09:14.519 was longer and the key frame was like
+00:09:15.920 one or two frames over there I must have
+00:09:17.240 shortened it and so what'll happen is
+00:09:18.800 it'll remove the starting point key
+00:09:20.320 frame but it'll still start
+00:09:21.600 automatically so most of the time you'll
+00:09:24.440 notice there's a slight push in or
+00:09:25.920 slight pull in on either the graphics or
+00:09:27.920 myself or both and I do that to add a
+00:09:29.720 little bit of motion on the screen you
+00:09:31.120 can just execute that with scale nothing
+00:09:33.040 else you don't have to do anything else
+00:09:34.360 let's keep going now this is a cool
+00:09:36.680 effect coming up right so I I put the
+00:09:38.160 word AI on the screen and it looks like
+00:09:40.600 I'm animating it but really all I'm
+00:09:42.240 doing is I took five different fonts of
+00:09:44.880 the word AI I just made a text graphic
+00:09:47.160 in figma and you can do this in Premiere
+00:09:49.120 as well and each one is two frames long
+00:09:52.000 and because I chopped it and put it in
+00:09:53.399 the exact same position it makes it seem
+00:09:55.959 like it's some animation right so it's
+00:09:57.920 very cool you can basically use chopping
+00:10:00.760 in terms of clip length and switching
+00:10:02.560 visuals to create motion without there
+00:10:04.680 actually being any motion so I do that
+00:10:06.760 and then what happens is I bring this
+00:10:08.320 last one on the screen and then I use
+00:10:09.640 that opacity to get rid of it so you can
+00:10:12.079 see the opacity key frames are right
+00:10:14.200 here I also used opacity on myself here
+00:10:17.079 to kind of sync it up so I wanted this
+00:10:18.720 moment with the crescendo of the music
+00:10:20.720 where it went black and then I came back
+00:10:22.519 on screen really quick so I just use
+00:10:24.200 opacity to to create that now one other
+00:10:27.000 quick thing to mention that I like to
+00:10:28.519 use is crop everybody likes to use crop
+00:10:30.560 right so let's see let's go find
+00:10:32.120 something where so this is a good
+00:10:33.440 example of a crop the way you get the
+00:10:35.079 crop is you go to effects type in crop
+00:10:37.560 crop is right here you just drag crop
+00:10:39.880 onto whatever clip you want to crop so
+00:10:43.440 let's put it onto this apple
+00:10:44.480 intelligence one so now there's a crop
+00:10:46.360 you have left right top bottom you can
+00:10:48.040 either press on this percentage and you
+00:10:49.760 can pull this so I pull this to the
+00:10:51.519 right see how it's cropping there's a
+00:10:53.320 white square behind which is why it's
+00:10:55.240 tough to see but all you have to do is
+00:10:56.600 pull this so you so this 37% you can
+00:10:58.760 manually type the% or you can drag it
+00:11:02.079 but that's how use crop I like to use
+00:11:04.240 crop a lot for pictures that are kind of
+00:11:06.160 like overlapping or in the way um so
+00:11:08.160 that's that's another like really base
+00:11:09.600 these are all super base effects but
+00:11:12.480 just if you stack them the motion the
+00:11:14.600 opacity the crop if you stack them
+00:11:16.800 that's really all you need so let's keep
+00:11:19.040 going these are just Clips nothing's
+00:11:21.440 happening
+00:11:22.720 here this is just me a subtle push in
+00:11:25.360 with scale here's another arrow this was
+00:11:28.160 a text on screen so all you have to do
+00:11:31.399 is well actually I like to make my text
+00:11:33.320 in figma and then import it in so I can
+00:11:35.440 easily add a blur to it you can also
+00:11:36.880 make text here so like let's say I want
+00:11:38.200 to make this text I would just go over
+00:11:39.200 to the T tool I would highlight over it
+00:11:42.200 I would type in new
+00:11:44.399 Siri press to highlight come over to
+00:11:47.480 font change the font that's Apple Garin
+00:11:51.320 there you go you can see it's similar
+00:11:52.279 font change the color change the size so
+00:11:53.880 you can do the text in here as well I
+00:11:55.279 like to do it as a separate graphic
+00:11:56.480 outside it's just faster for me in figma
+00:11:58.399 but you can do that as well we'll keep
+00:12:00.680 going this is just a b-roll clip no no
+00:12:03.240 animation happening so one thing to
+00:12:04.839 mention here when you're making videos
+00:12:06.920 what's really helpful is to find a key
+00:12:09.480 visual is what I call it a key visual is
+00:12:11.440 some other video that you can chop up
+00:12:13.800 and use as b-roll because the other
+00:12:15.760 videos I like to say if a picture's
+00:12:17.800 worth a th000 words a video is worth a
+00:12:20.120 th000 pictures and so to use video
+00:12:22.519 b-roll is so much more powerful than
+00:12:24.600 photos and so you always want to
+00:12:25.839 prioritize video in this case what I use
+00:12:27.839 for these launch events is I'll use the
+00:12:29.600 demo video they actually release so this
+00:12:31.519 was the Apple keynote so this was just a
+00:12:33.079 clip from it but it's creating motion
+00:12:35.199 right so I don't need to do anything
+00:12:36.480 this again you'll almost always see a
+00:12:38.519 slight push in from me when it's full
+00:12:40.480 screen cuz I feel like it looks too
+00:12:42.120 static otherwise so I just do a a slight
+00:12:44.240 scale push in another arrow another
+00:12:47.320 b-roll again like you'll see this is
+00:12:49.120 really repetitive so this this was again
+00:12:51.480 the same as that AI thing it's four text
+00:12:53.839 Graphics that are just layered when I
+00:12:55.399 say them but I just position them so
+00:12:57.360 they show up on the screen separately
+00:12:58.639 again the these are very very basic but
+00:13:00.440 once you know after watching this video
+00:13:02.360 you'll know how to do this and then you
+00:13:04.399 can you can really uplevel we'll keep
+00:13:06.160 going again these are just Clips not
+00:13:09.399 doing anything special here clips and
+00:13:11.320 captions more clips and captions I
+00:13:13.600 changed the caption I changed the
+00:13:15.160 caption from the normal like yellow and
+00:13:16.639 red to this white to emphasize that it's
+00:13:18.959 a quote so again these are pretty
+00:13:20.720 straightforward that's a zoom here's
+00:13:22.240 something to note one thing I like to do
+00:13:23.760 when there's two clips of me full screen
+00:13:25.639 is I'll zoom on the first one and then
+00:13:27.959 I'll put the second one back where it
+00:13:29.440 was it creates this like Snapback effect
+00:13:31.480 so when you watch it full
+00:13:33.680 screen creates that Snapback it just a
+00:13:36.199 little bit of motion to draw the viewer
+00:13:37.639 like what and then you're on to the next
+00:13:38.800 thing it just holds their attention a
+00:13:40.040 little bit more you could say this is
+00:13:42.160 retention editing I mean that's I guess
+00:13:43.600 you're trying to keep them on the screen
+00:13:44.839 that's the goal of the video but I'm not
+00:13:46.240 trying to do it in an overwhelming way
+00:13:48.079 so you can see these are pretty tasteful
+00:13:49.600 like I'm not doing a whole lot I'm just
+00:13:51.120 alternating between full screen and half
+00:13:53.160 screen and I'm adding the the quality
+00:13:55.680 key visual when you have a key visual
+00:13:57.560 b-roll it makes it so much easier to
+00:13:59.680 edit when you don't have a key visual
+00:14:01.399 you're using gifts you're using story
+00:14:03.079 blocks B uh Bas b-roll footage which is
+00:14:05.759 not that interesting so you really want
+00:14:07.360 to have this key visual we're going to
+00:14:09.440 keep going I think there's a couple more
+00:14:10.680 things in here here again is text
+00:14:14.120 there's another so this was a fast move
+00:14:16.600 text so for the fast move I like to do
+00:14:18.720 it over like maybe five to six frames
+00:14:21.040 this one maybe is a little bit longer
+00:14:22.160 but again add the key frames one two
+00:14:25.079 drop the arrow bring it over so it's
+00:14:27.079 this like Fast into slow motion
+00:14:29.560 so we'll play it it's shows on the
+00:14:31.360 screen and then another thing comes in
+00:14:32.800 it's just just a little bit that now
+00:14:34.240 here's here's something interesting this
+00:14:35.920 is a b-roll image this huge image of all
+00:14:39.160 these apps and I wanted to show all of
+00:14:41.040 them so I created a position and scale
+00:14:44.160 the scale is like a slight increase in
+00:14:45.680 size the position goes left to right so
+00:14:47.240 you'll see this
+00:14:48.519 scroll I manufactured that scroll left
+00:14:51.519 to right with the effect but again same
+00:14:53.680 thing just position like we showed
+00:14:55.440 before we're going to keep going it's a
+00:14:58.360 little glitchy cuz the Apple footage is
+00:15:00.839 super high super big file size we'll
+00:15:02.959 keep going all right we're back to
+00:15:04.040 normal there was a there was a little
+00:15:06.320 double this is a little little trick I
+00:15:07.920 do sometimes is like a double Zoom so if
+00:15:11.839 there's a longer sentence where I'm kind
+00:15:13.720 of like saying it like and then this and
+00:15:15.880 then this I'll do like the double and so
+00:15:18.240 this is 1 2 3 4 5 six
+00:15:20.759 seven I'll match it with whatever space
+00:15:23.000 is in but that goes from like 91 is the
+00:15:25.519 base to 100 and then 100 to 109 or
+00:15:27.480 something like that so you'll notice
+00:15:29.720 one two so I do the double
+00:15:33.930 [Music]
+00:15:35.079 there we're going to keep going again
+00:15:37.720 nothing special it really is these
+00:15:39.639 videos go viral I mean the storytelling
+00:15:41.120 matters so we'll pause here the
+00:15:42.839 storytelling matters a lot the script
+00:15:44.279 writing matters a lot you'll notice the
+00:15:45.560 editing is not the feature the
+00:15:47.000 storytelling and the script is the
+00:15:48.360 feature if you want to learn how to do
+00:15:49.560 storytelling and scripting you can
+00:15:50.839 either join my free course in wavy World
+00:15:52.680 completely free there's a link invite
+00:15:54.279 Link in the description or I'm working
+00:15:56.199 with select Brands to actually script
+00:15:58.199 for them so you can email me cavs. if
+00:16:00.959 you interested in that email me because
+00:16:02.880 the scripting and storytelling is the
+00:16:04.360 feature the editing as you'll notice
+00:16:06.319 anybody can do this editing I'm good at
+00:16:08.120 it and fast at it and have a good taste
+00:16:09.800 for what Clips to use but anybody can do
+00:16:11.639 this editing that's that shouldn't be
+00:16:13.440 the constraining
+00:16:15.120 factor all right we're almost at the end
+00:16:16.839 of the clip again here's like a slight
+00:16:18.839 push in there's a snap back out there's
+00:16:22.720 Boll and that's it so that was the whole
+00:16:25.040 clip now I want to quickly go before we
+00:16:26.800 wrap up the video I want to quickly go
+00:16:28.000 to this Tesla one there's a couple extra
+00:16:30.399 things in the Tesla one that I want to
+00:16:31.880 talk
+00:16:32.920 about there's that slide in now you'll
+00:16:35.199 see this graphic it has the red
+00:16:36.959 background I made that in figma you can
+00:16:38.639 use canva figma whatever you use for
+00:16:40.399 typography just go in there type in the
+00:16:42.639 text and then add a background group it
+00:16:44.399 all together export that group as a PNG
+00:16:46.759 you can drop that in so I like to do it
+00:16:48.199 in figma again because I can control the
+00:16:49.720 sizing a little bit better it's just
+00:16:51.040 less finicky so that was a slide
+00:16:53.839 in slide in with the Apple logo here's
+00:16:56.319 that b-roll again
+00:16:59.319 a double slide in so this is two images
+00:17:02.160 stacked same exact pacing one coming
+00:17:04.599 from the left one coming from the
+00:17:07.240 right there's b-roll there's a snap
+00:17:09.640 there's an arrow there's a slight zoom
+00:17:11.359 on the
+00:17:12.480 background that was a little clip okay
+00:17:15.480 this is this is worth talking about so
+00:17:17.160 this is a tweet from Elon so what I do
+00:17:19.559 here is I use an app called cleanshot X
+00:17:21.880 it's the best screenshotting tool that
+00:17:23.520 I've ever found so I'll go to Twitter
+00:17:25.839 and I'll I'll highlight the screenshot
+00:17:27.919 over the tweet then I can bring it into
+00:17:29.799 clean shot and I can add this background
+00:17:31.840 at whatever Dimension ratio I want I can
+00:17:34.559 round the corners it it makes it really
+00:17:36.360 presentable so that this whole thing is
+00:17:39.400 exported from cleanshot and right into
+00:17:41.000 Premiere so this is an image so I'm
+00:17:42.360 putting a little push scale on that but
+00:17:44.960 it wasn't like a separate tweet and I
+00:17:46.400 had to find the separate background
+00:17:47.600 cleanshot makes it super easy I don't
+00:17:49.520 know if it's paid or free I don't have
+00:17:51.120 an affiliate link I'll link something
+00:17:52.440 below but I don't think I have an
+00:17:53.360 affiliate link just check it out that
+00:17:54.880 that's the easiest way to do these
+00:17:56.360 screen
+00:17:57.320 grabs so you've got clean shot there
+00:17:59.799 that's how I would do and okay then this
+00:18:01.200 is another thing that's worth talking
+00:18:02.559 about so the arrow obviously comes these
+00:18:04.840 logos are just Graphics you can see
+00:18:06.880 they're stacked here they just show up
+00:18:08.559 but the let's talk about the yellow the
+00:18:10.799 yellow uh highlight so what I like to do
+00:18:14.000 is anytime there's something some text
+00:18:16.320 on the screen that I'm talking about
+00:18:18.159 while in the video I will add a
+00:18:21.039 rectangle so this little graphic is a
+00:18:23.240 rectangle to do that you just go over to
+00:18:25.080 this toolbar you press the rectangle
+00:18:27.360 tool and you just draw rectangle which
+00:18:29.480 we draw in as a graphic it'll come in
+00:18:31.280 Gray and then what you need to do is you
+00:18:33.600 need to go change the fill to
+00:18:36.720 yellow and you need to go change the
+00:18:40.200 opacity blend mode to multiply it'll be
+00:18:43.360 on normal you have to change it to
+00:18:44.840 multiply that will allow the words to
+00:18:47.000 come through if you don't change to
+00:18:48.000 multiply it's just going to be a a thick
+00:18:49.559 yellow bar and then what you're going to
+00:18:51.200 do is so this is where the real sauces
+00:18:53.679 you're going to add the crop onto it so
+00:18:57.200 this one I just drew I'm not sure
+00:18:59.280 we'll zoom in
+00:19:01.880 here so right now if we played this the
+00:19:05.120 left one is cropping on the right one is
+00:19:06.640 just fixed so I'm going actually I'm
+00:19:08.679 going to delete the delete the right one
+00:19:10.960 just so we can see so what's happening
+00:19:12.720 is I went over here to effects I put in
+00:19:15.679 crop I drag crop on so you go to if you
+00:19:18.360 wanted to come in from the left to right
+00:19:20.280 how most people read you would go to the
+00:19:22.679 the right crop property put a key frame
+00:19:26.360 and then you're going to find so it's
+00:19:28.159 going to look like this you're going to
+00:19:29.559 keep scrolling until the key the yellow
+00:19:33.320 disappears so for this one it's at like
+00:19:35.280 90 93 994 you're going to go to when you
+00:19:37.960 want the Highlight to stop and then
+00:19:40.039 you're going to put another key frame
+00:19:41.240 and you're going to scroll until the
+00:19:42.840 yellow fills
+00:19:44.720 up the word and that creates this effect
+00:19:48.240 as though you're highlighting it's just
+00:19:49.520 cropping on a rectangle so I use that a
+00:19:51.640 lot when there's words so the
+00:19:53.320 combination here we're stacking a lot of
+00:19:54.840 things this is the cleanshot X to get
+00:19:56.480 the Tweet we're using the Highlight
+00:19:58.240 rectangle we're using an arrow we're
+00:19:59.880 using logo images this is an example of
+00:20:02.120 like a lot of time not a lot of time but
+00:20:03.880 like 5 minutes went into making this
+00:20:05.880 graphic for just a second on the screen
+00:20:07.559 but I find those little things sometimes
+00:20:09.000 throughout the videos you pick one or
+00:20:10.200 two moments to really like make
+00:20:11.520 something interesting visually that's
+00:20:13.120 all you need so we'll keep
+00:20:15.720 going here's another clean shot X I'm
+00:20:17.960 pushing slow in on that there's this is
+00:20:20.600 clean shot X but I didn't put a
+00:20:21.919 background on it and this is just a
+00:20:23.559 screens shot below now why did I do this
+00:20:25.720 I wanted to vary up we already had two
+00:20:27.480 in a row I wanted to kind of vary up the
+00:20:29.440 the visual so for this one I kind of
+00:20:31.320 just like change the eye level put it
+00:20:33.120 down
+00:20:34.919 below there's a gif that was that slow
+00:20:38.440 zoom snap here's a random b-roll clip I
+00:20:41.600 found this is like a random clip from
+00:20:43.799 starlink I didn't have to animate any of
+00:20:45.280 that same with
+00:20:46.880 this logo slide in again I don't do the
+00:20:50.520 animation I don't know how to animate I
+00:20:51.919 don't know how to use After Effects I
+00:20:53.200 can't custom animate things my YouTube
+00:20:55.799 editor knows how so that's how we get
+00:20:57.440 this these videos have anim but I can't
+00:20:59.360 do that on these shorts again this is
+00:21:01.440 like Words
+00:21:03.280 appearing more words
+00:21:08.760 appearing more b-roll just b-roll on
+00:21:11.840 captions you can tell like the b-roll
+00:21:13.679 switching is all you need that's enough
+00:21:15.320 between that and the captions in my
+00:21:16.640 voice it's enough stimulation you don't
+00:21:18.080 need to overdo
+00:21:20.000 it that was a slight push in and then
+00:21:22.320 text so you're seeing like these are
+00:21:24.919 these are the effects I use that's it
+00:21:27.000 like all I do is motion opacity crop
+00:21:30.880 sometimes I'll do rotation very rarely
+00:21:32.880 sometimes I'll use blur usually I do
+00:21:34.559 blur in figma in terms of like I have a
+00:21:36.720 piece of text I clone that text I
+00:21:38.720 decrease the opacity on the text behind
+00:21:40.840 and I turn the blur up so it creates
+00:21:42.240 that like glow effect but if you want to
+00:21:43.520 create that here you can just type in
+00:21:44.960 blur you go to gausian blur drag that on
+00:21:47.720 so I'll just show you really
+00:21:51.679 quick let's just say this Tesla logo we
+00:21:54.080 wanted to we wanted to blur it you go to
+00:21:56.200 gausian blur you drag that on the Tesla
+00:21:58.240 logo now watch if I make this 100 boom
+00:22:00.960 it's blurry so you can key frame that in
+00:22:02.679 to go from 0 to 100 to kind of blur it
+00:22:04.360 out that's another thing you can do so
+00:22:06.279 that's it that's really all it is if you
+00:22:07.880 want to level up your short form video
+00:22:09.440 this will have helped with your editing
+00:22:10.760 but there's lots of other tutorials and
+00:22:12.440 modules in wavy world and it's
+00:22:14.240 completely free so check that out
+00:22:15.559 there's an invite Link in the
+00:22:16.600 description for you if you want it and I
+00:22:18.520 will see you on the next one peace
